@@ -86,7 +86,7 @@ with a one-line `groupby` in pandas/Excel:
 strict section acc@10 == mean(per_query.csv["matched_section"])
 ```
 
-## Honesty notes (read these)
+## Important : 
 
 We report the things that usually get hidden:
 
