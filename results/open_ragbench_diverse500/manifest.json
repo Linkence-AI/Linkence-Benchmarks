@@ -28,13 +28,13 @@
   "indexed_sections_total": 10432,
   "sections_with_tables": 1032,
   "sections_with_images": 2305,
-  "embedding_model_used": "none (hashed TF-IDF 2048d; no paid embeddings)",
+  "embedding_model_used": "text-embedding-3-small",
   "reranker_used": null,
   "chunking_strategy": "one-retrievable-unit-per-corpus-section (tables-as-markdown, images-unsupported)",
   "top_k": 10,
   "run_datetime_utc": "2026-06-14T12:01:21.121677+00:00",
   "code_commit_sha": "8208b48c40a3af558ec316eb10cb77905a97a93b",
   "sampling_log": [],
-  "vectorizer": "hashed-tfidf-2048d (no paid embeddings)",
+  "vectorizer": "hybrid: hashed-tfidf-2048d sparse + text-embedding-3-small dense",
   "collection_name": "org_benchmarkopenragbenchdiverse500_d500"
 }

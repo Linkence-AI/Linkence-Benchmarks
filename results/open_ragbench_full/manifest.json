@@ -23,7 +23,7 @@
   "indexed_sections_total": 18840,
   "sections_with_tables": 1982,
   "sections_with_images": 3864,
-  "embedding_model_used": "none (hashed TF-IDF 2048d; no paid embeddings)",
+  "embedding_model_used": "text-embedding-3-small",
   "reranker_used": null,
   "chunking_strategy": "one-retrievable-unit-per-corpus-section (tables-as-markdown, images-unsupported)",
   "top_k": 20,
@@ -32,6 +32,6 @@
   "sampling_log": [
     "all-queries mode: full corpus, no diversity sampling"
   ],
-  "vectorizer": "hashed-tfidf-2048d (no paid embeddings)",
+  "vectorizer": "hybrid: hashed-tfidf-2048d sparse + text-embedding-3-small dense",
   "collection_name": "org_benchmarkopenragbenchdiverse500_full"
 }
