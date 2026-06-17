@@ -16,7 +16,8 @@ results — no API keys and no access to the Linkence engine required.
 
 *Dataset: [`vectara/open_ragbench`](https://huggingface.co/datasets/vectara/open_ragbench).
 "Strict section" = the exact gold section was retrieved; "relaxed doc" = the correct
-source document was retrieved. No reranker was used in these runs.*
+source document was retrieved. These runs used a lexical hashed TF-IDF 2048d vectorizer
+(no paid embeddings) and no reranker — see each `manifest.json` for the full config.*
 
 ![Strict section accuracy@K](assets/accuracy_chart.png)
 

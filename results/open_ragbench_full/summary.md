@@ -8,7 +8,7 @@
 - Indexed hard-negative docs: 604
 - Indexed sections: 18840
 - top_k: 20
-- Embedding model: text-embedding-3-small
+- Retriever: hashed TF-IDF 2048d, lexical (no paid embeddings)
 - Reranker: None
 
 ## Headline
@@ -41,7 +41,7 @@
 ## Supported vs multimodal-degraded
 - Supported-only (text, text-table): strict@10=96.4% (n=2062)
 - Multimodal-degraded (text-image, text-table-image): strict@10=90.8% (n=983)
-- NOTE: images are indexed as base64 with no captions/OCR; our text-embedding stack cannot read image content, so multimodal queries are reported separately and excluded from the supported-only headline.
+- NOTE: images are indexed as base64 with no captions/OCR; our text-only retrieval stack cannot read image content, so multimodal queries are reported separately and excluded from the supported-only headline.
 
 ## Conclusion
 - Score kind: text-only / supported (headline = all selected queries)
