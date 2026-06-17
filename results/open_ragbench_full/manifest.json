@@ -1,0 +1,37 @@
+{
+  "dataset_name": "vectara/open_ragbench",
+  "dataset_path": "D:\\RAG Enterprise\\dev\\data\\open_ragbench\\pdf\\arxiv",
+  "subset_name": "diverse_500",
+  "random_seed": 42,
+  "total_candidate_queries": 3045,
+  "selected_query_count": 3045,
+  "requested_sample_size": 500,
+  "source_distribution": {
+    "text": 1914,
+    "text-image": 763,
+    "text-table": 148,
+    "text-table-image": 220
+  },
+  "source_quotas": null,
+  "type_distribution": {
+    "abstractive": 1793,
+    "extractive": 1252
+  },
+  "unique_positive_docs": 396,
+  "hard_negative_docs": 604,
+  "indexed_docs_total": 997,
+  "indexed_sections_total": 18840,
+  "sections_with_tables": 1982,
+  "sections_with_images": 3864,
+  "embedding_model_used": "text-embedding-3-small",
+  "reranker_used": null,
+  "chunking_strategy": "one-retrievable-unit-per-corpus-section (tables-as-markdown, images-unsupported)",
+  "top_k": 20,
+  "run_datetime_utc": "2026-06-14T12:45:25.719284+00:00",
+  "code_commit_sha": "8208b48c40a3af558ec316eb10cb77905a97a93b",
+  "sampling_log": [
+    "all-queries mode: full corpus, no diversity sampling"
+  ],
+  "vectorizer": "all-valid-queries (no diversity sampling)",
+  "collection_name": "org_benchmarkopenragbenchdiverse500_full"
+}

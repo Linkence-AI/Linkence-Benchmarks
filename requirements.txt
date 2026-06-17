@@ -1,0 +1,5 @@
+# Verification (compute_metrics.py, make_leaderboard.py) uses only the Python
+# standard library - no install required.
+#
+# The optional chart generator (scripts/make_chart.py) needs matplotlib:
+matplotlib>=3.8

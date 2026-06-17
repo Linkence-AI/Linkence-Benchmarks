@@ -1,0 +1,501 @@
+query_id,query,query_type,query_source,primary_category,gold_doc_id,gold_section_id,top1_doc_id,top1_section_id,rank_of_gold_section,rank_of_gold_doc,matched_section,matched_doc,latency_ms
+0035bbca-a1fd-4d96-891f-5a5d9f8f3c66,In what ways do large financial institutions influence market equilibrium prices?,abstractive,text-image,q-fin.TR,2404.08757v2,1,2404.08757v2,6,2,1,True,True,6293.9
+0037d2b2-ab5a-435a-8554-c2e7fd81b390,How do sectoral productivity shocks influence overall economic output?,abstractive,text,econ.TH,2404.18137v2,0,2404.18137v2,0,1,1,True,True,930.1
+00707172-75cc-498a-b86d-6cacf6917d78,What dataset is used for consistent pronunciation from a single native speaker?,extractive,text,cs.SD,2410.14997v2,6,2410.14997v2,6,1,1,True,True,782.0
+00f1f703-087e-4808-b838-07c819e68335,What is the correlation between the tax instrument and recovered tax shock during the Great Moderation?,abstractive,text,econ.EM,2403.08753v2,11,2403.08753v2,11,1,1,True,True,816.0
+0103999e-e3b1-4aaa-8513-016c04344183,What role do Parsimony Anomalous Gene Trees (PAGTs) play in evaluating phylogenetic trees?,abstractive,text-image,q-bio.PE,2407.02634v3,9,2407.02634v3,8,2,1,True,True,524.0
+010ee499-211a-4195-a32b-15ce468c3588,For which data-generating process does the conditional confidence interval have a coverage frequency different from that of the conventional confidence interval?,abstractive,text-table,econ.EM,2403.00422v2,17,2403.00422v2,17,1,1,True,True,407.6
+01143e90-d880-4e06-b81d-fded20cc3a4a,Can the infimum in the representation of $\psi(x)$ be attained if $\psi(x)<\infty$?,extractive,text,math.ST,2403.06613v3,4,2403.06613v3,7,2,1,True,True,262.2
+019e5052-ef2b-44d3-9748-8f8d0038e528,What does a decrease in both Rényi entropy and BSQ indicate about spectrogram quality?,abstractive,text-table-image,cs.LG,2406.11917v2,21,2406.11917v2,21,1,1,True,True,405.4
+02205406-1428-4f9d-93f0-360c574805b7,How do the concepts of Deligne's conjecture extend to quantum analogs within mathematical categories?,abstractive,text-table-image,math.QA,2402.03637v2,3,2402.03637v2,3,1,1,True,True,378.6
+02bcc959-051f-4595-bd71-338b7eba4f51,How does the distribution of nodule sizes impact the outcomes of a virtual screening trial?,abstractive,text-image,eess.IV,2404.11221v4,19,2404.11221v4,10,9,1,True,True,514.0
+030759dd-8872-49f0-869c-be7c5a9cebb9,What is Task Level Pipelining (TLP) used for in FPGA acceleration?,abstractive,text,physics.flu-dyn,2411.16245v2,7,2411.16245v2,7,1,1,True,True,430.5
+035796ee-ceff-4f2c-8dfb-e0eac56af728,"Is oxRNA more accurate than oxDNA in reproducing RNA's structural, mechanical, and thermodynamic properties?",extractive,text,physics.bio-ph,2411.09216v2,10,2411.09216v2,10,1,1,True,True,341.0
+06c18504-f6c2-43bf-94c0-70c15c3c201e,What methodologies are employed to achieve specific melting temperatures for DNA structures under various conditions?,abstractive,text-image,physics.bio-ph,2411.09216v2,5,2411.09216v2,5,1,1,True,True,544.3
+0722fef4-627d-40b8-aca6-c551a40f737e,What is the attractive force formula in the Fruchterman-Reingold force model?,extractive,text,cs.CG,2412.20317v3,30,2412.20317v3,2,,1,False,True,398.2
+077c0aa1-4c33-46cf-8c3b-7b616672e8c1,Can trichoblast patterning be decoupled from cortical clefts without changes to the cortical signal or receptor?,extractive,text,q-bio.MN,2412.11338v2,20,2412.11338v2,20,1,1,True,True,382.2
+07efe123-2864-48ed-b922-f15ef3a57915,What motivates the focus on the generalization gap in studying neural network behavior?,abstractive,text,cs.CL,2411.00816v2,43,2411.00816v2,56,2,1,True,True,358.6
+080e75f0-9863-4bbb-8ada-3a2f5e5890b1,How does strategy-proofness relate to group strategy-proofness in school choice mechanisms?,abstractive,text-image,econ.TH,2406.01398v4,8,2406.01398v4,2,6,1,True,True,446.7
+081a3106-1355-42b7-ba51-ac45a47dc3ed,What are the key hyperparameters used in training models for protein function prediction and PPI link prediction?,abstractive,text-table,q-bio.BM,2411.08909v3,30,2411.08909v3,30,1,1,True,True,392.7
+0860c0a4-ec48-4c3b-85c8-5fc27d2f290f,Does proper prompt engineering affect schema matching results using large models?,extractive,text,cs.DB,2408.14507v2,3,2408.14507v2,7,2,1,True,True,471.1
+08c17de9-0930-4665-a7a2-f95c061730fe,How does conditional rank-rank regression differ from traditional rank-rank regression?,abstractive,text,econ.EM,2407.06387v3,0,2407.06387v3,0,1,1,True,True,257.7
+0920cb6c-229b-4b46-b2ab-834dffea6689,How do implementation shortfall (IS) and target close (TC) orders differ in trading strategies?,abstractive,text,q-fin.TR,2401.03305v2,2,2401.03305v2,9,2,1,True,True,541.9
+097b7b88-c1f0-4606-8512-c4ac3fd5b59e,Does the structural STVAR model allow for capturing nonlinearities in the effects of CPU shocks?,extractive,text,econ.EM,2404.19707v4,11,2404.19707v4,1,3,1,True,True,355.1
+09a3c188-0bb9-4c84-881a-fdadc84ca4e5,Are random Reed-Solomon codes optimally list-decodable in the large q regime?,extractive,text,cs.IT,2406.02238v6,9,2406.02238v6,9,1,1,True,True,394.6
+09a82aff-63f2-4955-99b2-5e0255226bba,At what collision energy does the cross-section stabilize around 100 Å² for all transitions?,extractive,text-image,astro-ph.EP,2409.04439v3,18,2409.04439v3,19,2,1,True,True,343.0
+0a6e1067-15be-4e59-bce0-a3b9b03924aa,Is trapped speculation associated with safe nesting conditions?,extractive,text-image,cs.PL,2405.10089v2,181,2405.10089v2,16,2,1,True,True,399.7
+0a8c5eaa-1fef-450d-8499-5c7a9148e8de,What role do collinear arrangements play in determining common intersections among disks?,abstractive,text-image,cs.CG,2403.08977v2,4,2403.08977v2,1,2,1,True,True,388.2
+0a8ffa1c-e76a-4b0d-ae67-4d747a39a279,Are trace-invariants unitarily invariant polynomials?,extractive,text,math-ph,2410.00908v2,6,2410.00908v2,6,1,1,True,True,388.7
+0b2d3db6-d273-4dd4-9671-97161d8568b3,Does the conditional generation process ensure that generated orders are realistic?,extractive,text,q-fin.CP,2409.07486v2,4,2409.07486v2,4,1,1,True,True,372.7
+0ba12832-6d3c-4e90-8f97-3143fc7ee88f,What threshold percentage is used in the Generalized Pareto Distribution (GPD) model?,extractive,text-table-image,q-fin.RM,2411.13384v2,8,2411.13384v2,8,1,1,True,True,406.8
+0c2f0d36-a9fc-46de-b776-a9a722b874d7,How do ETS models assign weights to past observations?,abstractive,text-table,stat.AP,2405.17070v2,8,2405.17070v2,8,1,1,True,True,390.0
+0c5eeb67-8acd-48a4-8c88-c1c5faf1b2a3,What year did the F-BIAS network start?,extractive,text-table,q-bio.OT,2409.15009v2,3,2409.15009v2,2,3,1,True,True,259.5
+0c627b97-cbef-4bbc-ba9a-83f2e9c6a9e8,Is there a definition for a simplicial out-q-degree rich-club coefficient?,extractive,text,q-bio.NC,2409.09862v3,89,2409.09862v3,89,1,1,True,True,404.4
+0c695ab2-c477-4c7e-9742-20b2b7feb68c,Why are second moments important when analyzing point processes?,abstractive,text-image,stat.ML,2408.07372v2,3,2408.07372v2,2,2,1,True,True,637.7
+0cc52d57-c698-481f-8113-2eebdc3799e1,What is a social welfare function in economics?,extractive,text-image,econ.TH,2408.04814v3,3,2410.09555v2,9,,2,False,True,403.4
+0e153cbf-a237-4129-86ac-db0101f5fba4,How do Weibull and Rayleigh distributions aid in target detection for SAR images?,abstractive,text-table-image,cs.CV,2410.03816v2,5,2410.03816v2,0,2,1,True,True,378.4
+0ea976f5-e751-4193-aeb8-3e7c31df1950,Can anthropomorphic phantoms and simulated images from the VLST be requested online?,extractive,text,eess.IV,2404.11221v4,13,2404.11221v4,13,1,1,True,True,390.1
+0f0c2f86-f575-4a64-9fde-100fd5b888e2,Which crypto asset has a beta-sigma range extending beyond 5?,extractive,text-image,q-fin.RM,2411.05803v4,21,2411.05803v4,10,7,1,True,True,386.1
+0fd5317d-da74-4784-b74f-7f9b7314f281,"Which statistical distributions are used to model land clutter in SAR images, and why?",abstractive,text,cs.CV,2410.03816v2,0,2410.03816v2,4,2,1,True,True,390.1
+10aa08ee-fabb-4c98-9b0b-28f2d02075ff,Are host samples classified more accurately than soil or aquatic ones?,extractive,text-table-image,q-bio.GN,2405.05998v3,3,2405.05998v3,3,1,1,True,True,391.1
+10ae9fe2-6ced-4897-a781-bf097a8b4e62,Is every nonempty subset of a left zero semigroup also a subsemigroup?,extractive,text,math.GR,2410.23473v2,3,2410.23473v2,1,2,1,True,True,373.1
+10d28566-4c39-4cb7-b081-a68973e241b4,What does the d-GSPHAR model aim to model?,abstractive,text,unknown,2410.22706v2,6,2410.22706v2,6,1,1,True,True,420.4
+111b8e87-de5e-458b-8d9c-12cfd8d994d9,How does Degree Node (DN) sampling determine which nodes to sample?,abstractive,text,cs.SI,2409.06994v3,8,2409.06994v3,8,1,1,True,True,522.1
+117a8a07-ce3a-49d6-b282-e05e5f62a94e,Is detailed justification required when refining problems during the curation process?,extractive,text,cs.CV,2403.20331v2,21,2403.20331v2,21,1,1,True,True,418.5
+11a08b2c-4485-461f-bb2c-44ffed443c02,Does the band structure show instability towards an excitonic insulator state?,extractive,text-image,quant-ph,2409.12237v2,9,2409.12237v2,9,1,1,True,True,399.5
+12623984-b54f-4ae7-877c-b4abffd3cf67,Is statistical consistency considered important in frequentist statistics today?,extractive,text,stat.OT,2410.11399v2,5,2410.11399v2,5,1,1,True,True,379.8
+130449f8-08d3-498c-a581-d63de91cbdbd,How does magneto-optical trapping differ from other methods used in creating Cs+ ion beams?,abstractive,text,cond-mat.mtrl-sci,2412.09374v3,1,2412.09374v3,1,1,1,True,True,391.7
+1397c4b7-cff8-4f46-90a1-9eacfc039c7d,Can the Elastic Net penalty induce sparsity?,extractive,text,math.ST,2411.17395v2,6,2411.17395v2,5,2,1,True,True,383.0
+13ab2dab-ccc6-4066-94b3-0ae279a51811,What challenges do university CS programs face with the rapid pace of technology adoption?,abstractive,text,cs.GL,2407.02591v1,0,2407.02591v1,1,2,1,True,True,377.8
+13d172a6-bb0f-44ee-9b8a-09d3abab15ac,How does dynamic similarity analysis (DSA) extend generalized shape metrics in evaluating system-level dissimilarities?,abstractive,text,math.DS,2409.18681v6,1,2409.18681v6,1,1,1,True,True,410.9
+13f93f77-a4ca-46fb-97ca-fded27e03f68,What happens to the retarded metric perturbation on past null infinity and past horizon?,abstractive,text,gr-qc,2406.10343v4,12,2406.10343v4,12,1,1,True,True,376.1
+146bd47a-776e-4eed-a846-b4d4a7ae4c40,How does supervising different numbers of non-frame atoms influence predicted model likeness such as RhoFold?,abstractive,text-table,q-bio.BM,2406.13839v3,19,2406.13839v2,19,2,2,True,True,374.0
+14e6d3ee-a220-431f-a5e3-8f195b54082a,Are classical machine learning methods easily applicable to omics-based time series data?,extractive,text,q-bio.OT,2411.10511v4,10,2411.10511v4,10,1,1,True,True,414.6
+1634306c-bba3-4c63-a7aa-76ae9abaa3b2,"Are higher values better for SI-SDR, SDR, PESQ, and STOI metrics?",extractive,text,eess.AS,2404.18501v3,20,2404.18501v3,23,3,1,True,True,401.7
+17d6d332-c2cc-46b2-947e-e05b888d0f42,How much memory does each Nvidia GTX 3090 Ti GPU have?,extractive,text,stat.ML,2410.12036v2,26,2402.16731v7,23,2,2,True,True,371.4
+186af622-3c72-46b6-b95a-5127ddeb0c80,Was Uzi Pereg supported by any program related to quantum science and technology?,extractive,text,quant-ph,2412.17119v3,23,2412.17119v3,23,1,1,True,True,379.1
+19347c88-388b-4472-927e-1933e612c9c3,What external inputs are incorporated into the final load forecast?,extractive,text-image,stat.AP,2405.17070v2,9,2405.17070v2,9,1,1,True,True,407.0
+19578063-0527-4bcd-9cfc-3ce256e4664e,How do recent studies suggest neural networks exhibit similar dynamics across tasks?,abstractive,text-image,stat.ML,2410.05454v2,1,2410.05454v2,7,2,1,True,True,506.2
+19b5550b-f7f8-495b-babc-d51d07401242,How does dipole conservation affect spin chain dynamics?,abstractive,text,cond-mat.stat-mech,2411.03309v2,2,2411.03309v2,8,2,1,True,True,521.3
+19bb974f-1464-47d2-92d6-905a8315b7b9,What role do two-dimensional nanomaterials play in developing new transistor technologies?,abstractive,text,cond-mat.mtrl-sci,2411.07216v2,0,2411.07216v2,0,1,1,True,True,382.1
+19ce7868-ff59-4ed3-879f-03bc70226e2c,How do extensions of companionships and conjunctions relate to functor double Segal spaces?,abstractive,text,math.CT,2408.14335v2,0,2408.14335v2,0,1,1,True,True,396.8
+1a5ed0aa-16e4-40a7-a9b9-b10f8e798108,Which cluster shows a significant drop in bike rides during weekends?,extractive,text-image,stat.ME,2407.13314v3,19,2407.13314v3,19,1,1,True,True,365.5
+1aca1574-1fbc-4538-8986-c8f9932ff03a,What technology is being integrated with U-space to support unmanned aerial vehicle services?,abstractive,text,cs.IT,2411.09666v2,14,2411.09666v2,1,2,1,True,True,393.1
+1b4d4eeb-b2d9-4e5b-b3e5-fd52badb184c,Under what condition does a complex balanced CRN mimic an irreversible CRN with absolute concentration robustness?,extractive,text,q-bio.MN,2401.06987v2,14,2401.06987v2,14,1,1,True,True,403.5
+1b4dde85-61dc-4931-8528-50c07116656d,What is the accuracy of the base NLP model for market return direction?,extractive,text-image,q-fin.CP,2412.07587v6,21,2412.07587v6,21,1,1,True,True,389.7
+1b5daf91-5b36-4010-884f-56a59dce3d2e,What does holding the estimated coefficients of pressure variables at zero imply in alternative competition settings?,abstractive,text,econ.GN,2409.13333v2,17,2409.13333v2,17,1,1,True,True,365.2
+1b6d7957-06d4-4a38-b6a3-0bb0ea864dea,How does introducing bias in the Werner density matrix affect entanglement?,abstractive,text,physics.gen-ph,2409.18495v2,1,2409.18495v2,4,4,1,True,True,424.0
+1c118bec-8759-4e05-b680-905dc07caf36,What method is proposed to improve the long-term behavior of satellite orbit solutions?,abstractive,text,nlin.CD,2409.14246v2,20,2409.14246v2,15,2,1,True,True,382.1
+1c245090-64e7-4184-91b4-d1b21d5b035e,Are TE polarization resonances associated with electric dipole Mie modes?,extractive,text,q-bio.QM,2412.20245v4,4,2412.20245v4,4,1,1,True,True,381.2
+1cbc50c6-69e9-4f6f-ac02-b5b6213227ad,How do AutoStep and fixed step methods compare in terms of jump distance versus initial step size?,abstractive,text-image,stat.CO,2410.18929v2,25,2410.18929v2,14,10,1,True,True,367.6
+1d585069-a446-47fa-a74d-0387316ea330,In what areas do syllabic embeddings show potential for improvement based on current research findings?,abstractive,text-table,cs.CL,2410.07168v2,30,2410.07168v2,33,,1,False,True,377.4
+1de4b475-6563-4e39-8908-bfcebcdb36cf,What is the maximum likelihood decision rule $f^{*}$?,extractive,text,econ.EM,2412.16352v2,9,2412.16352v2,9,1,1,True,True,530.9
+20292ce2-e24c-4179-a55a-6754dee9428f,Can next-generation high-energy neutrino telescopes constrain cosmic neutrino background overdensities?,extractive,text,hep-ph,2405.14946v2,2,2405.14946v2,2,1,1,True,True,380.1
+203223bd-6962-4f72-90f4-b9448bf24c54,Does the pricing structure of Uniswap V3 include a rebate segment?,extractive,text,q-fin.PR,2411.12375v3,5,2411.12375v3,5,1,1,True,True,415.0
+20cfc51e-30bc-4f29-b23e-bebee9b5fe78,How do non-autoregressive accent conversion models improve pronunciation for second-language English learners?,abstractive,text,cs.SD,2410.14997v2,1,2410.14997v2,10,2,1,True,True,432.8
+2109c438-8756-4a2e-9bd1-dc2444f520a5,Is there a point where both velocities are equal on the ascent-time surface plot?,extractive,text-image,physics.class-ph,2403.03363v6,5,2403.03363v6,5,1,1,True,True,394.3
+21d3eb86-fbd6-44fc-9da0-8250a3f5f8aa,Do both diagrams of Borromean rings have identical structures?,extractive,text-image,math.GT,2501.00225v2,2,2408.06050v2,39,2,2,True,True,378.7
+23610d31-90ff-4b27-9b2a-250f6cbe2078,What are some computational results achieved using the quantum exceptional polynomial?,abstractive,text,math.QA,2402.03637v2,0,2402.03637v2,0,1,1,True,True,529.1
+24473661-a543-4a6a-906d-b7d8cfd27bd9,Which function distributes workload by regular grid areas?,extractive,text-table-image,cs.DC,2412.11355v2,8,2412.11355v2,8,1,1,True,True,353.0
+245a7938-23b1-473b-9990-f522aeb6f7a4,Why are first-order models valuable for estimating the performance impact of new VM features?,abstractive,text,cs.AR,2403.04635v2,28,2403.04635v2,28,1,1,True,True,371.2
+2500fa5e-51d0-4096-b639-fc3f0a7fb951,How do surrogate losses aid in training CNNs for image classification?,abstractive,text,math.ST,2404.07128v3,1,2404.11929v3,4,2,2,True,True,360.0
+257ec56e-d63d-45b6-9a17-3e598a98a916,Why do singularities form in viscosity solutions of HJB equations?,abstractive,text,math.OC,2403.05412v2,1,2403.05412v2,1,1,1,True,True,398.8
+25b88544-0add-4173-ae18-df88a6a200ce,How does bypass angle affect phase delay in LVA for angles greater than or equal to $60^\circ$?,abstractive,text,physics.bio-ph,2409.02476v2,14,2409.02476v2,14,1,1,True,True,417.7
+278bbe85-14b2-439f-9312-002c4303d573,How do privacy guarantees differ between Poisson subsampling and sampling without replacement in differential privacy mechanisms?,abstractive,text-table-image,cs.CR,2405.20769v2,6,2405.20769v2,6,1,1,True,True,419.3
+283afa84-f0c8-40a7-a6f1-fb2a6b97c761,How does uncertainty in data affect standard quadratic optimization problems?,abstractive,text,math.OC,2411.14884v3,1,2411.14884v3,1,1,1,True,True,256.0
+29ac428d-cac1-4e2c-89d4-88dedbd306cd,Does CHCDS require numerical integration?,extractive,text,stat.ME,2406.18052v3,8,2406.18052v3,8,1,1,True,True,386.2
+29e1a43f-6c2d-47ae-bc88-f1b7e2b62081,How does gauge flux attachment work within a lattice framework?,abstractive,text-image,hep-th,2410.11034v2,13,2410.11034v2,13,1,1,True,True,382.9
+2b11e73d-bcfa-4b0f-882e-2fe6c67638bf,Does exceeding a crest factor of 7 indicate transient cavitation in acoustic emissions?,extractive,text,physics.comp-ph,2408.16142v4,11,2408.16142v4,11,1,1,True,True,374.7
+2b4fb211-9221-4aea-ba1b-1984e9927338,How does the Indian Cooling Action Plan (ICAP) aim to reduce carbon emissions from residential cooling?,abstractive,text-image,econ.GN,2412.06360v4,19,2412.06360v4,19,1,1,True,True,445.6
+2bac52cd-23d5-4128-a321-c325f49e59d9,What is a pitchfork bifurcation in dynamical systems?,extractive,text,math.PR,2410.15824v2,8,2410.05454v2,23,,,False,False,381.4
+2bb2ec71-75f7-4a9f-ba94-0037cafcae02,How can multivariate time series data be used to construct connectivity graphs?,abstractive,text-image,q-bio.NC,2409.09862v3,120,2409.09862v3,122,4,1,True,True,513.3
+2cc9bf85-7258-45b7-b8a8-e1888c793c1f,What type of processes do individual idiosyncratic noises form in classical mean field games?,abstractive,text,math.OC,2403.01012v4,4,2403.01012v4,0,,1,False,True,362.4
+2e967b95-85ff-4e07-93c7-8041e7471aee,What is the significance of polarizability in dysprosium Bose-Einstein condensates?,abstractive,text-table-image,cond-mat.quant-gas,2403.18677v2,3,2403.18677v2,0,2,1,True,True,238.0
+2e9af159-ba71-4677-9ae4-c8566d39c535,Why might multiple solutions exist when identifying parameters in collision models?,abstractive,text-table-image,physics.class-ph,2410.08147v8,7,2410.08147v8,8,7,1,True,True,384.9
+2fab68df-dea2-46a3-8088-ca5e18ea843c,How does Pygen aim to enhance the process of Python package creation?,abstractive,text,cs.SE,2411.08932v2,1,2411.08932v2,6,2,1,True,True,254.8
+30bcecd3-e89b-4019-8a20-9fcd8e8e5f39,What challenge is observed in real retrieval when instructions are applied?,abstractive,text,cs.IR,2410.23841v2,24,2410.23841v2,11,2,1,True,True,365.3
+31aeb4fd-3d62-4f32-aed9-70861153bacc,Are pairwise tests conducted if an ANOVA test result is significant?,extractive,text,q-fin.RM,2411.05803v4,16,2411.05803v4,16,1,1,True,True,527.5
+3264f287-d938-4d3a-82f0-d40e351ad8dd,Does the multi-grid approach depend on specific line shapes?,extractive,text,astro-ph.EP,2411.03418v4,7,2411.03418v4,7,1,1,True,True,419.6
+32f6d434-9535-4eb6-98ca-9dbf9738236b,What challenges arise with adaptive adversaries in differentially private systems?,abstractive,text,cs.DS,2411.03299v2,1,2411.03299v2,1,1,1,True,True,510.3
+33297ca3-967b-41bc-97e9-d5fda33fef79,What is a loose Legendrian?,extractive,text,math.SG,2411.19887v2,7,2411.19887v2,5,2,1,True,True,286.2
+333044bb-d23c-4721-a032-dc9c3309a5b1,What determines where workers choose to live in a long-run spatial equilibrium?,abstractive,text,econ.TH,2404.09796v2,3,2404.09796v2,3,1,1,True,True,363.6
+35fb10a1-19c7-4c45-9e09-ccb1fc902db6,What are some applications of proving strict comparison in \(C_{r}^{*}(G)\)?,abstractive,text,math.OA,2412.06031v2,0,2412.06031v2,0,1,1,True,True,377.5
+36042a30-3e61-46a7-a620-84bef1116ffa,What are co-risk measures and how do they improve upon traditional risk assessments?,abstractive,text,q-fin.RM,2411.13384v2,1,2411.13384v2,1,1,1,True,True,375.7
+36749e39-1f18-4261-bf7c-48d6928f64f6,Are lightweight architectures capable of producing a diverse array of sounds using interpretable parameters?,extractive,text,cs.SD,2406.05923v2,4,2406.05923v2,4,1,1,True,True,368.5
+3805a2f5-18a0-45d8-a291-dafef63b84bc,What does the Strict Instruction Compliance Ratio (SICR) metric evaluate?,extractive,text,cs.IR,2410.23841v2,5,2410.23841v2,5,1,1,True,True,381.8
+381dac10-9761-40df-af90-b6872eb0d21e,How do chaos and entropy contribute to the stability of living systems?,abstractive,text,q-bio.SC,2412.02459v2,0,2412.02459v2,4,2,1,True,True,587.7
+38895aa2-f373-49b6-8e2f-92fb64dd4258,Is further investigation needed to assess the effectiveness of QRC techniques on medical images after classical pre-processing?,extractive,text,q-bio.OT,2411.10511v4,11,2411.10511v4,11,1,1,True,True,473.7
+38db190b-c99e-44da-9735-bb5817caa4d8,What is the no-go zone in sailboat trajectory optimization?,extractive,text-image,math.OC,2404.03773v2,1,2404.03773v2,1,1,1,True,True,381.6
+3968f493-a170-431e-9a8d-7eccdd4a9799,Does accelerated RPCholesky have a lower error ratio compared to block RPCholesky?,extractive,text-table-image,math.NA,2410.03969v3,1,2410.03969v3,1,1,1,True,True,390.5
+39945ff2-88f3-4412-a70f-a53d381723f3,Why is hierarchical alignment important in molecule-text integration?,abstractive,text,q-bio.QM,2404.16880v3,16,2404.16880v3,1,10,1,True,True,340.7
+3a3deb47-6b92-40b7-b4a0-eee9c3295b44,What is the purpose of using atmospheric motion vectors (AMV) in center-fixing methods?,abstractive,text,physics.ao-ph,2409.16507v2,5,2409.16507v2,5,1,1,True,True,430.3
+3b0f3fea-70d9-4d24-bbc5-96cf7ce794af,How many backbone atoms does an RNA nucleotide contain compared to proteins?,extractive,text,q-bio.BM,2406.13839v2,3,2406.13839v2,3,1,1,True,True,383.3
+3b165412-bc10-4952-b4ba-d3b82b16e9cd,What is the KSESS diagnostic used for in statistical analysis?,extractive,text-image,stat.CO,2410.18929v2,26,2410.18929v2,26,1,1,True,True,355.1
+3b4f92fc-973e-45a6-9bcf-d5c1b33447d6,How do randomized streaming algorithms differ from deterministic ones regarding space complexity?,abstractive,text,cs.FL,2402.13385v2,0,2402.13385v2,2,6,1,True,True,414.6
+3bef9369-7028-4c0b-ae43-48b82ef781db,Were online mapping tools used for indoor or outdoor distance measurements?,extractive,text,cs.NI,2410.24112v2,5,2409.06948v2,16,3,2,True,True,409.7
+3c46cf58-1e36-472d-8652-8425e6360b00,What happens to coma lobes as beams move further from the feed array center?,extractive,text-image,astro-ph.IM,2412.02582v2,13,2412.02582v2,13,1,1,True,True,380.0
+3c48e345-630b-457f-874b-a3066e5a43f9,How does the Job Training Partnership Act (JTPA) relate to dynamic treatment regimes in education?,abstractive,text-table-image,econ.EM,2403.00422v2,18,2403.00422v2,18,1,1,True,True,382.5
+3c7df663-8b96-4c93-98a3-da131d9cadb2,Why is convergence to the truth significant in evaluating scientific inference methods?,abstractive,text,stat.OT,2410.11399v2,1,2410.11399v2,3,3,1,True,True,261.2
+3c819e80-2b92-43c1-88f8-ea352f7bea33,Do feedback Nash equilibria map game states to players' controls?,extractive,text,cs.GT,2410.16441v2,2,2410.16441v2,4,2,1,True,True,521.0
+3dcede6c-123b-4e43-ba8d-2c49ce5ffea0,Why might the issue with Agda's termination checker be considered beneficial from a mathematical perspective?,abstractive,text,cs.LO,2409.02603v3,11,2409.02603v3,11,1,1,True,True,384.6
+3de6cbbd-b28f-49f6-9e13-45df9264bb07,What were the long-term socio-economic effects on individuals who experienced centralized admissions during their schooling years in Japan?,abstractive,text-table-image,econ.GN,2402.04429v3,23,2402.04429v3,1,,1,False,True,268.2
+3df76f98-f105-4ff1-948d-d583b641b816,How does the equivariant filter improve LiDAR-Inertial Odometry performance?,abstractive,text,cs.RO,2409.06948v2,17,2409.06948v2,18,10,1,True,True,383.6
+3e072125-e130-438c-b264-0bfb622cdf65,How are foreground and background predictions decoupled in binary classifiers?,abstractive,text,cs.CV,2410.11774v2,9,2410.11774v2,9,1,1,True,True,415.8
+3e7791ee-e9fa-4553-a724-f0cb2a4eaa5e,How are non-frame atoms in RNA structures positioned using torsion angles?,abstractive,text-table-image,q-bio.BM,2406.13839v3,18,2406.13839v3,18,1,1,True,True,411.2
+3f2fb6cc-4979-44d5-9e80-364e66cfb24d,"What are the key properties of strongly-correlated materials like $\mathrm{Ca}_{2} \mathrm{CuO}_{3}$, $\mathrm{WTe}_{2}$, and $\mathrm{SrVO}_{3}$?",abstractive,text-image,quant-ph,2409.12237v2,7,2409.12237v2,7,1,1,True,True,386.5
+3f3f926d-8a37-4453-af4f-ba2737508448,Are numerical simulations consistent with experimental observations regarding spheroid shape changes post-cutting?,extractive,text-image,physics.bio-ph,2410.03344v2,7,2410.03344v2,7,1,1,True,True,545.1
+3f66cfc2-72f0-407b-a6f2-6e49cdbfe251,Is there a stronger intergenerational income persistence between fathers and sons compared to fathers and daughters?,extractive,text-table-image,econ.EM,2407.06387v3,4,2407.06387v3,4,1,1,True,True,387.5
+3f671673-ba48-4738-8b85-39d7b76348dd,How can superconducting circuits demonstrate collective advantage over independent scenarios?,abstractive,text-table-image,quant-ph,2401.17469v2,6,2401.17469v2,7,3,1,True,True,388.0
+40a42e52-66b4-496c-8c7f-23f4869a5561,What challenges exist when implementing contrastive learning methods like equilibrium propagation in hardware?,abstractive,text,cs.ET,2412.12783v2,2,2412.12783v2,2,1,1,True,True,355.2
+40b75706-3856-4768-ad60-d331b8739f84,Why might aggregation be suitable when only average effects are considered in simulation studies?,abstractive,text-table,stat.ME,2401.07294v4,7,2401.07294v4,14,9,1,True,True,394.2
+40b9bcef-8683-4f19-b8f6-057852ecc62c,What is the role of the external potential in the GHD-Boltzman equation?,abstractive,text,cond-mat.stat-mech,2410.23209v2,17,2410.23209v2,17,1,1,True,True,528.3
+41251274-74e8-45ab-a2c9-a7fec9b74a46,What is the significance of high Variance Inflation Factor (VIF) values in regression analysis?,abstractive,text-table,q-bio.QM,2412.20245v4,14,2412.20245v4,14,1,1,True,True,420.7
+4126e457-bb00-4de0-8202-3d5e2de4713f,How does an even number of switch errors influence the output in diploid genome assembly using a greedy approach?,abstractive,text-image,cs.IT,2405.05734v3,7,2405.05734v3,1,,1,False,True,392.7
+41d2bcc7-d6f3-47b6-8657-6bbf12f846f5,What role does Nordic Semiconductor's proprietary software play in wireless experiments?,abstractive,text-image,cs.NI,2410.24112v2,4,2410.24112v2,4,1,1,True,True,423.8
+41d68de9-7ef9-4dbd-8a08-31075b374b30,How do liquidity providers interact with an auction-managed AMM?,abstractive,text,q-fin.TR,2403.03367v4,0,2403.03367v4,1,2,1,True,True,252.8
+42cb7168-2528-4f99-a78b-240ac13ddb10,How does anisotropy influence Hankel function values in relation to superconducting nodes?,abstractive,text-image,cond-mat.supr-con,2412.13042v2,17,2412.13042v2,17,1,1,True,True,385.2
+42eab9e8-0d02-4ea4-94ef-bb7f7ca01403,How does changing values between $\chi_M$ and $\chi_V$ affect dislocation charge near an impurity?,abstractive,text,cond-mat.supr-con,2412.13042v2,8,2412.13042v2,6,3,1,True,True,539.5
+430a123c-864c-402f-9775-f04fab13d8f1,How is the Euler characteristic related to central slope Kronecker moduli?,abstractive,text,math.AG,2410.07913v3,1,2410.07913v3,1,1,1,True,True,242.9
+440d8a78-d9d2-4e28-8d98-4f5b57ffde61,How does Chopin improve computational efficiency in geospatial data analysis?,abstractive,text,cs.DC,2412.11355v2,0,2412.11355v2,0,1,1,True,True,373.8
+443b0b43-9ac6-407a-babc-d4bde013f98c,What happens to insider demand when accounting for both private signals and price-impact internalization?,abstractive,text,q-fin.TR,2404.08757v2,5,2404.08757v2,6,2,1,True,True,380.8
+450105a5-0a20-4194-b34e-73d52f9d53a4,Are bcc-structured clusters energetically favorable for some cluster sizes?,extractive,text,physics.atm-clus,2409.02293v3,12,2409.02293v3,12,1,1,True,True,463.3
+452aa396-f0da-4237-9909-e492aa7a867e,Why are inverse problems considered ill-posed?,abstractive,text,stat.ML,2410.12036v2,1,2410.12036v2,1,1,1,True,True,392.5
+4567be44-1156-4a3e-b8b0-aa5ece693db9,Is the success rate for third attempts higher in multi-ply than single-ply equipment?,extractive,text-table,econ.GN,2409.13333v2,3,2409.13333v2,3,1,1,True,True,361.1
+464c1b9d-39f0-4591-9d77-91f93eaf455f,What is an example of a prompt that is appropriate for the Music Instruments Classification task?,abstractive,text,cs.SD,2501.00398v2,6,2501.00398v2,6,1,1,True,True,360.4
+4671ec46-9402-417b-a56f-8473395e6c45,What are the vertices of the integration path for \( t > 0 \)?,extractive,text-image,math.DS,2411.11402v4,6,2411.11402v4,6,1,1,True,True,343.0
+46c61a25-3dc5-4aa5-8b2b-66d96b949fe9,How do airway dimensions change throughout the respiratory tree?,abstractive,text-image,q-bio.QM,2408.07618v3,23,2408.07618v3,23,1,1,True,True,269.8
+47143f78-816d-43fd-a84a-60de98d8d2ee,How does checking Syntactic Independence compare with manually proving Independence in terms of complexity?,abstractive,text,cs.PL,2405.10089v2,15,2405.10089v2,15,1,1,True,True,359.4
+47814fcb-031b-48a6-99c3-fe60a2aa1ec6,What do the listed orthologs help identify within gene interaction networks?,abstractive,text,q-bio.GN,2405.05998v3,10,2405.05998v3,10,1,1,True,True,345.3
+4850e9f2-69e1-4dfd-8406-4eea6d2b8e3b,What did Guth propose about the inflationary era's effect on the Universe's flatness?,abstractive,text,hep-ph,2408.13427v2,8,2408.13427v2,8,1,1,True,True,513.9
+4a225574-06a5-48e1-85eb-ab911da819d5,What are the implications of the absence of massive activations in LC-PLM?,abstractive,text,q-bio.BM,2411.08909v3,35,2411.08909v3,35,1,1,True,True,404.9
+4a6b402a-6ca8-414f-ba22-4e38d88797bc,How does air pollution affect under-5 child mortality in China?,abstractive,text,econ.GN,2411.10728v3,0,2411.10728v3,19,2,1,True,True,381.0
+4a94ded1-1a50-485d-bec1-ac6d4a6069b4,In what areas of mathematics are Bruns-Lakser and ideal completions commonly used?,abstractive,text,math.GN,2405.19171v3,0,2405.19171v3,0,1,1,True,True,403.5
+4c073f02-02e2-480f-9522-7a36ce860a0f,What metrics were used to evaluate the performance of different sensor control methods?,abstractive,text,cs.SY,2401.14085v2,19,2401.14085v2,19,1,1,True,True,370.8
+4c1167ec-4f88-4e1c-a802-ce7ebf0e5f2a,How does Batch-DiffTune enhance robustness compared to DiffTune?,abstractive,text,cs.RO,2412.12448v2,6,2412.12448v2,6,1,1,True,True,241.3
+4c15ed0b-8d0b-45a9-b0fd-7a20edf4c251,Why is self-interference cancellation important in radar parameter estimation for doubly-dispersive channels?,abstractive,text-image,eess.SP,2405.16945v4,16,2405.16945v4,3,5,1,True,True,369.7
+4cbf5ef6-0b2f-40e2-bb78-e0db4a90c1fb,What are the main types of collision laws used in modeling impacts between rigid bodies?,abstractive,text,physics.class-ph,2410.08147v8,1,2410.08147v8,1,1,1,True,True,371.4
+4cdb1912-04f5-4dc2-b4e3-daad6e7211cf,Does changing window channel sizes affect average voltages across the domain?,extractive,text-image,cond-mat.soft,2412.20570v1,12,2412.20570v1,12,1,1,True,True,392.6
+4dac7203-72f4-4764-a45a-3233c3796a0c,Does the total size of state-preserving and state-resetting populations differ when measured?,extractive,text,q-bio.PE,2410.01862v2,16,2410.01862v2,16,1,1,True,True,370.9
+4dd814ee-bb3f-4a6f-9438-ab424614c1a6,Can two states be distinguished through a vortex despite a crossover in bulk observables?,extractive,text,hep-th,2411.03676v2,13,2411.03676v2,13,1,1,True,True,378.2
+4e47671d-6590-4432-a64e-aa4d736e4629,What challenges exist in making participatory exercises genuinely democratic rather than mere market research?,abstractive,text-image,cs.AI,2407.11613v2,10,2407.11613v2,11,2,1,True,True,370.4
+4e653cfc-0e18-43f8-b0f5-4e614c87d63d,Does Type-II SGS require antiparallel magnetization for operation?,extractive,text-image,cond-mat.mtrl-sci,2411.07216v2,3,2411.07216v2,3,1,1,True,True,349.4
+4e72e669-2955-45b3-88a2-c01fafa9f6bf,What happens if an agent lies about their costs in PFL?,abstractive,text,cs.GT,2405.13879v3,5,2405.13879v3,5,1,1,True,True,510.0
+4fb38a84-403d-49a5-b905-6bd59e81a018,What potential future research directions exist for extending the use of MGFs in moment computation?,abstractive,text,econ.EM,2410.23587v3,8,2410.23587v3,8,1,1,True,True,385.5
+509fb86a-d580-4bbc-9cd4-87882fdf7314,How does topological analysis help understand payment system networks?,abstractive,text,econ.GN,2409.13674v3,1,2409.13674v3,1,1,1,True,True,362.8
+50cf540c-1b26-4739-b115-9bd0e6b538ee,Why are prime numbers important when discussing hypotheses like RH?,abstractive,text,math.GM,2412.11130v5,0,2411.08777v2,29,5,5,True,True,239.6
+51ca04bc-2c6e-439d-a36d-ffbd993e684e,Is it acceptable for conditions to be generic or arbitrary restrictions?,extractive,text,cs.IR,2410.23841v2,16,2410.23841v2,16,1,1,True,True,245.7
+5262064e-9316-4193-8d1e-9c085af85542,Is nonlinear self-diffusion associated with passive immune system collision operators on an intermediate time scale?,extractive,text,math.DS,2410.17420v2,5,2410.17420v2,8,2,1,True,True,387.3
+52694833-7001-4896-a030-e767eec3467b,What is the role of symmetric matrices in algebraic K-theory with involution?,abstractive,text-image,math.AT,2405.02054v2,11,2405.02054v2,12,,1,False,True,397.3
+529ebc6e-7e98-4a36-a2fd-3eae73e3479d,Does the manager need to screen the worker when his capability type is publicly known?,extractive,text,econ.TH,2405.18521v2,5,2405.18521v2,5,1,1,True,True,245.9
+53420856-5ccb-421e-a088-85a22be2cbc9,How does covariate adjustment impact the statistical power in simulation studies?,abstractive,text-table-image,stat.ME,2401.07294v4,10,2401.07294v4,14,2,1,True,True,357.1
+54c33d52-670c-4d3c-a2b4-bf3499c32878,How is canopy height mapping achieved using satellite imagery?,abstractive,text-image,cs.CV,2406.04928v3,5,2406.04928v3,5,1,1,True,True,425.6
+55dd77ba-c154-43db-a50d-c10e12d8c1a7,What is the complier average treatment effect (CATE) and its limitations?,abstractive,text,stat.ME,2405.07102v3,1,2404.14603v2,2,2,2,True,True,384.9
+56115442-b4bf-4da9-9286-57a353a979fe,Is increased cell visibility at higher altitudes beneficial for UAV performance evaluation?,extractive,text,cs.IT,2411.09666v2,7,2411.09666v2,7,1,1,True,True,416.4
+5632e246-99c7-4022-8937-419d803184cf,Does a linearly polarized laser field affect the vectorial contribution to polarizability?,extractive,text,cond-mat.quant-gas,2403.18677v2,2,2403.18677v2,2,1,1,True,True,409.9
+5677b060-420e-4054-9c73-808170376c4b,Why might local vessel stiffness be less significant than other factors in affecting arterial pulsation post-surgery?,abstractive,text,physics.bio-ph,2409.02476v2,10,2409.02476v2,14,7,1,True,True,358.5
+56e20912-bb01-4b4c-b664-f2eb5441758d,In what ways have deep neural networks improved sound separation tasks?,abstractive,text,eess.AS,2409.04843v2,1,2409.04843v2,1,1,1,True,True,552.9
+57974a20-83f8-4a30-b935-ca111cc76f08,Are participants allowed unsupervised access to firearms during the training session?,extractive,text,cs.CR,2407.16205v5,39,2407.16205v5,39,1,1,True,True,384.8
+580eafb2-ff6c-4ff2-9353-b5421ffff0eb,What insights did Hippocrates provide about the function of the brain related to consciousness?,abstractive,text,q-bio.NC,2409.09862v3,125,2409.09862v3,125,1,1,True,True,373.4
+58b2b173-5678-468c-943c-f4c62ebae122,How is blood flow measured in vertebral arteries during cardiac cycles?,abstractive,text-image,physics.bio-ph,2409.02476v2,5,2409.02476v2,5,1,1,True,True,363.5
+58b6b175-b71a-4a87-8725-90959a5ce528,What is one limitation of identifying superspreading events based on genetic sequence data?,abstractive,text,physics.soc-ph,2406.09983v2,6,2406.09983v2,6,1,1,True,True,384.0
+593f362b-d24d-40e2-951c-5b5f23c02411,"Are annuities, non-health, more prevalent in Portugal than in Sweden?",extractive,text-image,q-fin.MF,2407.11761v3,2,2408.13702v3,11,2,2,True,True,381.2
+5a618017-ac3a-4457-8371-bf075bb2dd60,What distribution characterizes the heat-heat correlator?,extractive,text,cond-mat.stat-mech,2410.23209v2,28,2410.23209v2,28,1,1,True,True,513.1
+5c58cfdf-ebdd-4ad0-a298-c5c34c7ed586,How are trades validated in a constant function market maker (CFMM)?,abstractive,text,q-fin.MF,2409.11339v2,3,2409.11339v2,3,1,1,True,True,388.1
+5cf7fc05-cd3d-4a78-9577-e94e87e66bb0,Which capacitor configuration has the lowest nonlinearity error in ppm?,extractive,text-table-image,physics.ins-det,2412.18252v2,4,2412.18252v2,4,1,1,True,True,383.2
+5dccd210-faae-48b0-8052-b959455ccaf1,How does the performance of noise-based local learning compare with traditional algorithms like backpropagation?,abstractive,text,cs.ET,2412.12783v2,1,2412.12783v2,2,,1,False,True,376.7
+5e094576-e1ce-4fdd-bc32-475752d408bb,How does the dual JPEG compatibility method verify image authenticity?,abstractive,text,cs.CR,2408.17106v2,18,2408.17106v2,1,3,1,True,True,242.0
+5e40f401-398a-4565-8a1f-620ddb1a68f3,Why might concatenated parsimony fail in certain cases?,abstractive,text,q-bio.PE,2407.02634v3,0,2407.02634v3,1,2,1,True,True,372.8
+5eb49f19-4f8a-4ac2-81fd-bce56422439f,How are neurons and glial cells represented in modeling frameworks for brain development?,abstractive,text-image,q-bio.MN,2411.09721v2,2,2411.09721v2,2,1,1,True,True,353.2
+61b6ca84-4015-435c-b8de-b63b02778b1a,Does aligned RoPE achieve temporal alignment in sequences?,extractive,text,cs.CV,2412.15322v2,27,2412.15322v2,27,1,1,True,True,407.2
+62a1844a-2bf0-455a-8219-10898cb64af1,Why is manual quantification of nigral hyperintensity not feasible for PD monitoring?,abstractive,text,eess.IV,2404.11929v3,3,2404.11929v3,3,1,1,True,True,361.8
+62c64e6d-414f-4ffe-91fd-e95ce3f99350,What happens to the concentration of total original molecules in the voxel over time?,abstractive,text,physics.med-ph,2408.06427v2,12,2408.06427v2,12,1,1,True,True,388.5
+62dbc03c-7b38-467e-a81d-3b6376704017,Is loop unrolling performed on large loops with high trip counts?,extractive,text,physics.flu-dyn,2411.16245v2,9,2411.16245v2,9,1,1,True,True,387.8
+637fdb28-12fb-472d-8d35-ea68a4ab77f6,Why is accurate estimation of Above Ground Biomass important for global challenges?,abstractive,text,cs.CV,2406.04928v3,0,2406.04928v3,0,1,1,True,True,307.0
+63f79c6a-1e48-4869-a67c-441dcb7a8eeb,What is the importance of measurement equivalence in health outcome evaluations?,abstractive,text,stat.AP,2408.13702v3,1,2408.13702v3,1,1,1,True,True,259.0
+64113742-3825-4a83-a22c-d479c0781198,Does media coverage increase during AGM weeks compared to other weeks?,extractive,text-image,econ.GN,2411.06875v3,4,2411.06875v3,4,1,1,True,True,395.2
+641ba2ae-db82-4968-9111-0d7c96fbfe7b,How does decoherence occur in a Bose-Einstein condensate when exposed to gravitons?,abstractive,text,hep-th,2410.05184v2,0,2410.05184v2,0,1,1,True,True,370.0
+64bface6-f344-41b6-8818-b2d3d82ff7fe,What is empirical coordination in the context of quantum correlations?,abstractive,text,quant-ph,2412.17119v3,17,2412.17119v3,2,2,1,True,True,264.3
+64c97696-db85-4a56-b080-88ebfb90ec5c,What issue does using natural number arithmetic cause when resolving jump targets during code compilation?,abstractive,text-table,cs.PL,2405.10089v2,197,2405.10089v2,197,1,1,True,True,380.8
+6538fb0f-d563-46b6-8557-39da7cf0637f,What is the threshold difficulty value at which the task difficulty becomes constant?,extractive,text-image,econ.TH,2405.18521v2,9,2405.18521v2,8,2,1,True,True,420.2
+65e9230d-523c-4ad1-b913-e53325d84347,How do empirical results compare MLP-based manipulators with ideal manipulators across different numbers of candidates?,abstractive,text-image,cs.AI,2401.16412v4,16,2401.16412v4,16,1,1,True,True,395.5
+660775e4-433f-4742-a467-d07bbac59c64,Which application class is considered most critical for safety and protection in industrial networks?,extractive,text-table,cs.NI,2412.10243v3,7,2412.10243v3,1,4,1,True,True,522.8
+6632d19a-48c8-4624-aabc-65b6f925c905,Is working several levels above primitives beneficial in understanding set theory?,extractive,text,math.LO,2407.02507v2,1,2407.02507v2,1,1,1,True,True,388.9
+664d0770-1127-4fd4-9c86-afccdad64e1e,What is unambiguously efficient allocation?,abstractive,text,econ.TH,2401.11899v3,5,2401.11899v3,8,4,1,True,True,564.1
+66afb1b9-ba37-4e47-94e3-bed796547448,Can CD45RO and CD27 markers identify subsets of T cells?,extractive,text,stat.ME,2412.11692v4,14,2412.11692v4,14,1,1,True,True,365.9
+66f07bd1-e8b8-4c02-b006-24b018757487,Is the free group on two generators selfless?,extractive,text,math.OA,2412.06031v2,3,2412.06031v2,3,1,1,True,True,542.2
+6714edb0-7c1b-4eaf-8304-de65932b1919,What factors influenced local awareness behavior during the Omicron BA.1 wave of COVID-19?,abstractive,text-image,physics.soc-ph,2406.09983v2,5,2406.09983v2,5,1,1,True,True,369.8
+676f3e5b-df04-4358-83c5-af77ba49cf99,What is the optimization problem faced by a representative agent in the limiting game?,abstractive,text,math.OC,2403.01012v4,6,2403.01012v4,6,1,1,True,True,263.4
+680ad66b-015f-4df6-889c-b0b36b07cc47,Did hiring counts decline or increase on the private platform since its user engagement rise in 2018?,extractive,text-image,econ.GN,2410.17011v3,4,2410.17011v3,4,1,1,True,True,411.2
+68160aaa-7caa-4b88-b0a6-c7244e18a572,Is stacking more layers suggested as a better scaling strategy for training pLMs with a fixed parameter count?,extractive,text,q-bio.BM,2411.08909v3,12,2411.08909v3,12,1,1,True,True,367.0
+68264023-9a8d-4daa-a1df-e6d4e8ff781e,What is the significance of one-sided identities and zeros in semigroups?,abstractive,text,math.GR,2410.23473v2,0,2410.23473v2,1,3,1,True,True,378.6
+687d1a3e-e76f-4256-9792-05db56339c81,What type of problems do Ising machines solve?,abstractive,text-image,cs.LO,2412.10289v2,1,2412.10289v2,1,1,1,True,True,541.1
+68ce5136-6721-4fa4-b981-e8382a4a4f5f,How is label inconsistency resolved in distributed information fusion?,abstractive,text,cs.SY,2401.14085v2,7,2401.14085v2,7,1,1,True,True,254.1
+69858193-4ea7-4484-a269-0796f866b66d,"How is the Israel Gaza topic represented differently across text, image, and multimodal data?",abstractive,text,cs.SI,2410.08642v2,9,2410.08642v2,15,3,1,True,True,438.1
+6a2e4cdb-f574-4a4c-abd1-3101b1bce934,Does changing the bulk refractive index affect resonance wavelength shifts?,extractive,text-table-image,q-bio.QM,2412.20245v4,7,2412.20245v4,7,1,1,True,True,390.4
+6a7238e0-4d75-43bc-ace6-6927ec28de0e,Is a packet error rate of 10% typical in wireless data networks like LTE?,extractive,text,cs.NI,2410.24112v2,8,2410.24112v2,8,1,1,True,True,361.5
+6af79595-412c-4768-bf68-66ebeef9bd14,How is second-order smoothness achieved in Tikhonov regularization?,abstractive,text,physics.geo-ph,2412.06611v2,9,2412.06611v2,9,1,1,True,True,372.8
+6b0be0d3-3e85-409a-bb6d-51145f11d393,Are the DNN-based codecs optimized for synthesis speed?,extractive,text,eess.AS,2409.17635v2,10,2409.17635v2,10,1,1,True,True,383.1
+6bf2347b-5585-4ef6-844c-209dded5eb10,Does the base configuration require unit commitment or limits on power plant ramp rates?,extractive,text-table,econ.GN,2411.13783v2,4,2411.13783v2,4,1,1,True,True,369.4
+6cc96044-1cb0-4c3a-ab15-973da681d984,How does network heterogeneity impact neuronal synchronization?,abstractive,text,q-bio.NC,2407.18922v3,1,2407.18922v3,1,1,1,True,True,415.3
+6d39c088-ca99-4ecb-b06f-4b27d6495827,How does a grid mismatch affect JPEG images during forgery detection?,abstractive,text-image,cs.CR,2408.17106v2,14,2408.17106v2,14,1,1,True,True,242.8
+6df8e588-f3b3-429a-a826-65fa499e3546,Does the drivetrain-resistance coefficient affect the power calculation?,extractive,text,physics.class-ph,2403.03363v6,2,2403.03363v6,2,1,1,True,True,363.9
+6e2c7363-89ae-4430-95fb-da8a4e9c04d7,What role does vapor pressure data play in understanding boiling points of materials like iron?,abstractive,text-image,physics.atm-clus,2409.02293v3,5,2412.02269v2,4,,3,False,True,351.2
+6e98ceb3-be4f-4a17-856b-dae3b4b7076b,How does the DMVC-Tracker improve multi-agent trajectory planning for aerial tracking?,abstractive,text,cs.RO,2411.18086v2,0,2411.18086v2,1,2,1,True,True,389.5
+6f49fba7-5a86-4713-81b0-58107d049879,Are experts distributed across different EP groups?,extractive,text-image,cs.DC,2408.04307v3,11,2408.04307v3,11,1,1,True,True,395.2
+6fa62ffc-5723-4a30-9253-b5b5e16c9daa,Will future work explore decarbonization pathways under different climate scenarios?,extractive,text,econ.GN,2412.06360v4,23,2412.06360v4,23,1,1,True,True,246.2
+700551de-c288-4553-88e7-4db17c38527f,Does neglecting changes in kinetic energy become more justifiable for longer ascents?,extractive,text,physics.class-ph,2403.03363v6,14,2403.03363v6,14,1,1,True,True,361.4
+71353019-0220-4d91-8103-64ee177eeb33,Why is it necessary to develop explainable AI schemes for future networks like 6G?,abstractive,text,cs.AI,2407.07009v2,0,2407.07009v2,0,1,1,True,True,375.7
+717233bc-d98e-452c-a4e5-e837f6f84c17,How does the Time Aware Shaper (TAS) ensure timely message delivery in networks?,abstractive,text-table-image,cs.NI,2412.10243v3,2,2412.10243v3,2,1,1,True,True,368.5
+71915427-c291-4670-86cb-4c2fcc5b125c,What is the main challenge in delivering bioimage analysis services remotely with a distributed team?,abstractive,text,q-bio.OT,2409.15009v2,5,2409.15009v2,5,1,1,True,True,360.4
+71a9995e-e538-4f81-8e08-9857b31f4190,What happens when the proportional odds assumption does not hold in a multinomial logistic model?,abstractive,text,stat.CO,2410.20606v3,4,2410.20606v3,4,1,1,True,True,355.7
+71ab66d1-e029-4d7e-8cff-c166403cdf5c,How does the DeepONet architecture process input functions?,abstractive,text-image,cs.CE,2410.11712v2,5,2410.11712v2,5,1,1,True,True,243.9
+71aed9e8-6f91-4f6f-b901-e9e886d36b81,Is there a difference in infection dynamics between zero diffusion and infinite diffusion conditions?,extractive,text-image,q-bio.QM,2408.07618v3,3,2408.07618v3,3,1,1,True,True,342.2
+71c504f5-b3f0-4b3c-8de8-30e71b162690,What challenges arise when new high-value arrivals maintain dominance in a transaction queue?,abstractive,text-table-image,econ.GN,2410.09555v2,4,2410.09555v2,4,1,1,True,True,234.4
+720ed8ec-7011-441a-ad47-ad9d20fefd58,"Is it true that for any element \( e \) in a rectangular band \( S \), \( S = (Se)(eS) \)?",extractive,text,math.GR,2410.23473v2,4,2410.23473v2,4,1,1,True,True,375.0
+726b1836-c501-43f9-84d0-67a88f8d8f1b,Why is it significant that containers preserve least and greatest fixed points?,abstractive,text,cs.LO,2409.02603v3,0,2409.02603v3,0,1,1,True,True,233.6
+728d85d2-f249-400d-bb70-d623b4c419e6,Why is it crucial to have a specific kernel when working with infinite-dimensional spaces in nonparametric approaches?,abstractive,text,cs.LG,2405.07312v3,6,2405.07312v3,6,1,1,True,True,512.9
+73297183-6ed3-4464-96f1-c7330569813d,"Who are the developers of the ""Punch-Out!!"" VR game?",extractive,text-image,cs.GL,2407.02591v1,4,2407.02591v1,4,1,1,True,True,255.2
+73b2f637-40f8-488a-80fc-f5563db69a8d,What is the purpose of action quality assessment in various fields?,abstractive,text,eess.SP,2402.09444v3,1,2402.09444v3,2,2,1,True,True,355.7
+73fd61d9-76f7-45d4-b27c-1c2b1c439679,What concern might arise from conditioning market segmentation on additional buyer information like income?,abstractive,text,econ.TH,2406.14174v3,12,2406.14174v3,12,1,1,True,True,364.6
+74569569-a949-4bfd-9ff4-b96c7d73b1b0,What role do symmetric powers play in determining the properties of commutative Hopf algebras?,abstractive,text,math.RA,2412.19038v2,0,2412.19038v2,0,1,1,True,True,393.5
+7497c558-2ab4-49f1-8d08-ea7f19be6437,What steps are involved in using LLMs to model consumer engagement with stories?,abstractive,text-image,cs.CL,2412.15239v2,3,2412.15239v2,3,1,1,True,True,360.6
+74c3d526-6941-4aea-b577-6ab76d6932e2,How does foreground contamination affect H1 intensity mapping surveys?,abstractive,text,astro-ph.IM,2412.02582v2,0,2412.02582v2,0,1,1,True,True,418.8
+7528c506-2e78-43dd-b041-f58c73c6c420,Which dataset involves nanoparticles from an aerosolized solution of calcium chloride and sodium chloride?,extractive,text-image,physics.optics,2409.07413v5,4,2409.07413v5,4,1,1,True,True,372.5
+75314235-5943-4a14-8a89-ce52cae14bd3,Does a larger bandgap energy ($E_g \gg k_B T_h$) result in higher efficiency at maximum power?,extractive,text-image,physics.app-ph,2402.07527v3,4,2402.07527v3,4,1,1,True,True,395.9
+75bb21a7-1f35-40d1-891f-8004e21eb83d,How is spontaneous symmetry breaking characterized for discrete symmetries?,abstractive,text,hep-th,2411.03676v2,5,2411.03676v2,5,1,1,True,True,382.3
+75dfb440-63b2-4a2d-80cb-444ca478dde3,What is the number of contigs per sample for host environments?,extractive,text-image,q-bio.GN,2405.05998v3,2,2405.05998v3,3,2,1,True,True,523.5
+7698f8e4-a592-4d63-8f5f-69a21147090f,Does supermodularity alone guarantee comonotonicity in segmentations?,extractive,text,econ.TH,2406.14174v3,10,2406.14174v3,10,1,1,True,True,521.5
+773236f4-d50c-4299-9ba7-fcad69905c46,How are admissible fluxes determined in exponential growth models?,abstractive,text-image,q-bio.PE,2410.01862v2,14,2410.01862v2,6,2,1,True,True,360.7
+776aa52d-4316-42cd-a536-287b41eda197,Is azimuth AOA estimation affected by errors in array location and map unavailability?,extractive,text,eess.SP,2408.06274v3,22,2408.06274v3,22,1,1,True,True,350.3
+77d639f4-ce89-406a-b2a9-331b9c4fe29c,Can superparamagnetism result in two-level switching with nanosecond dwell times?,extractive,text,cs.ET,2412.12783v2,6,2412.12783v2,11,2,1,True,True,373.6
+785c702a-8f87-4ed6-bd3e-85824c8f28d4,Why was Fortran chosen as the main programming language for MARFA despite Python's popularity?,abstractive,text,astro-ph.EP,2411.03418v4,10,2411.03418v4,10,1,1,True,True,538.3
+79b9a8bf-5a37-4674-b6f9-5438ae7b9e30,What advancements does the cluster LP offer for solving correlation clustering problems?,abstractive,text,cs.DS,2404.17509v2,1,2404.17509v2,0,2,1,True,True,423.8
+7a9bb945-b30b-4f6f-924a-9d17b00d8fd0,How do higher order free cumulants relate to higher order asymptotic moments?,abstractive,text,math-ph,2410.00908v2,8,2410.00908v2,8,1,1,True,True,381.9
+7b3343a0-8ec0-4d68-a3a6-81de181ed836,Why might TM-score be preferred over RMSD for evaluating RNA structures?,abstractive,text-image,q-bio.BM,2406.13839v2,17,2406.13839v2,8,,1,False,True,365.8
+7c70ff6e-64dc-4c2c-991b-691c77983af5,Is an eGFR less than 45 ml/min/1.73 m² considered impaired kidney function?,extractive,text,physics.med-ph,2408.06427v2,9,2408.06427v2,9,1,1,True,True,371.7
+7d5ce40e-ecc8-47d2-82eb-f460d578c928,Why should caution be exercised when interpreting docking scores?,abstractive,text,cs.LG,2408.06050v2,15,2408.06050v2,15,1,1,True,True,360.9
+7d7befe2-9e09-43e0-a5fd-002e9994732b,How do different amplifier structures compare in terms of precision and application suitability?,abstractive,text,physics.ins-det,2412.18252v2,2,2412.18252v2,2,1,1,True,True,364.3
+7ddb6e39-986a-41f3-84a4-1b3376ff253f,In what way do transformers outperform traditional methods like two-stage least squares under endogeneity conditions?,abstractive,text,stat.ML,2410.01265v2,0,2410.01265v2,0,1,1,True,True,385.4
+7defe1ca-4daa-4b2e-84e5-683ab5dc8472,What is the significance of incorporating a Maxwell term in lattice Chern-Simons theory?,abstractive,text,hep-th,2410.11034v2,0,2410.11034v2,2,3,1,True,True,392.0
+7e99edfd-1b9f-4cad-a3ba-c5dfd1284278,Is uniform DIF different from nonuniform DIF?,extractive,text,stat.AP,2408.13702v3,2,2408.13702v3,2,1,1,True,True,243.4
+7ea5ebbf-5cee-4975-bfae-ccaebb338979,Does a higher loss aversion parameter \( \kappa \) decrease stock investments?,extractive,text-image,q-fin.MF,2406.20063v3,9,2406.20063v3,9,1,1,True,True,235.9
+7f25612d-9419-4e0a-a89a-9a5a6638e2a6,Is \(\bar{y}^{\prime}\) considered an unbiased estimator?,extractive,text,cs.CL,2411.00816v2,32,2411.00816v2,32,1,1,True,True,430.0
+7f2c5d19-0beb-4336-a1d9-9c3a05df693c,How does the contact Hofer norm relate to non-orderability in contact geometry?,abstractive,text,math.SG,2411.19887v2,2,2411.19887v2,2,1,1,True,True,249.3
+7f9639d0-41d6-4d5c-b31c-d58cb2863ec6,How can one construct different complex surfaces with similar normalizations but distinct geometries?,abstractive,text,math.AG,2407.14265v2,0,2407.14265v2,2,2,1,True,True,385.5
+8048fc49-21e7-48d2-ba26-8385f2ed3d45,How does incorporating video-based kinematic features aid in detecting hypokinetic dysarthria?,abstractive,text,cs.AI,2412.16874v3,1,2412.16874v3,1,1,1,True,True,415.0
+8067356a-2747-4018-ba55-46c8e6405ae7,Is the Surreal Delta function differentiable in terms of surreal-valued functions?,extractive,text,math.GM,2411.00296v4,2,2411.00296v4,2,1,1,True,True,376.9
+809bb608-31f9-4fbe-b101-9546075e9efb,Is there a suggestion to investigate settings with multiple informed traders?,extractive,text,q-fin.MF,2412.17712v2,39,2412.17712v2,39,1,1,True,True,398.1
+80e9d110-82af-41e5-8ad4-f084910c506e,Are there any interband contributions in the hopping terms for WTe2?,extractive,text,quant-ph,2409.12237v2,17,2409.12237v2,17,1,1,True,True,386.5
+80ead0f7-4701-4f13-ab90-1fe803f99751,How does the proposed NTC-MPC method improve safety in unknown environments?,abstractive,text-image,cs.RO,2410.20267v2,14,2410.20267v2,0,3,1,True,True,380.4
+81728c8f-e1de-4956-8ba2-a60fcc557351,How did the standardized yearly mortality rate change from 2010 to 2023?,extractive,text-table-image,stat.AP,2412.08927v2,4,2412.08927v2,16,2,1,True,True,343.1
+8224e561-7ff0-4844-962d-b60d68e27f4c,How does the fidelity of VQE compare to DMRG across different materials studied?,abstractive,text-table,quant-ph,2409.12237v2,8,2409.12237v2,13,2,1,True,True,381.4
+82b2733d-d373-4708-8a5b-66afd372c320,Does the inclination error return to near zero after one revolution?,extractive,text-image,nlin.CD,2409.14246v2,15,2409.14246v2,15,1,1,True,True,398.6
+835c5963-7784-484c-9ed9-796adc84fcdd,How do connected graphs benefit from uniform application of additional forces during optimization?,abstractive,text-image,cs.CG,2412.20317v3,32,2412.20317v3,32,1,1,True,True,407.2
+83f7512a-2555-4091-870f-a228827ef05b,Does the wireframe consist of interconnected straight segments?,extractive,text-image,physics.plasm-ph,2412.00267v2,2,2412.00267v2,2,1,1,True,True,359.0
+8431252b-a908-42eb-ae19-75e1c1d68245,How might a manipulative instructor create continued dependence among students after training?,abstractive,text,cs.CR,2407.16205v5,33,2407.16205v5,33,1,1,True,True,400.2
+8431b20d-2e55-4b20-9fb5-c8908f048a5b,How does upgrading network cables impact industrial network performance?,abstractive,text-image,cs.NI,2412.10243v3,9,2412.10243v3,9,1,1,True,True,360.3
+84d866ce-cb19-448a-aa00-70af1ad80917,Is the angle between isolated patterns smaller than that between non-isolated patterns?,extractive,text,q-bio.MN,2412.11336v3,21,2412.11336v3,28,2,1,True,True,381.3
+85dab45c-c097-42ae-8f7d-a00164d2ac97,Does the self-normalized importance sampling estimator converge to $\mu$ with probability 1?,extractive,text,stat.ML,2408.07372v2,6,2408.07372v2,6,1,1,True,True,529.2
+86229b7c-1a0c-4bc1-931d-fc7e480b7fcb,What advancements does RMS-ControlNet offer over previous text-to-audio models?,abstractive,text-image,cs.SD,2408.11915v2,18,2408.11915v2,18,1,1,True,True,366.7
+867eed53-0bf0-431c-a339-38dac2beb55b,Is the voltage difference higher in a sphere or an oblate spheroid?,extractive,text-table-image,cond-mat.soft,2412.20570v1,11,2412.20570v1,13,7,1,True,True,414.0
+86997f53-2801-4007-a0e4-de847455b000,How does inheritance affect access to member variables in object-oriented programming?,abstractive,text-table-image,cs.SE,2410.01999v4,20,2410.01999v4,20,1,1,True,True,372.0
+871857f1-325a-4b40-8f66-3f52c49497d7,What is the continual monotone histogram query problem?,abstractive,text,cs.DS,2411.03299v2,8,2411.03299v2,8,1,1,True,True,433.0
+8737f4aa-1eaa-454a-9c6f-e3101d3af502,How do Virtual Imaging Trials (VITs) offer advantages over traditional clinical trials in medical imaging?,abstractive,text,eess.IV,2404.11221v4,1,2404.11221v4,1,1,1,True,True,378.6
+8768bf80-d72f-4b04-a009-23d518d7835c,Is there only one possible relative position between generic hyperplane sections and polar curves for normal surface germs with fixed homeomorphism class?,extractive,text,math.AG,2407.14265v2,2,2407.14265v2,2,1,1,True,True,379.4
+87856189-29a8-4104-a8e1-c0af6a849833,How do existing methods like signal injection compare with newer approaches for estimating line impedance?,abstractive,text-image,cs.SY,2410.14077v2,1,2410.14077v2,0,2,1,True,True,358.8
+87a20392-0eff-40d8-b720-9fbc9a12966e,Does the application scenario involve generating textual and visual embeddings?,extractive,text,cs.DB,2407.02994v3,6,2410.08642v2,4,2,2,True,True,372.8
+87d6988d-8606-423d-aa34-1ad513b9a50b,Is a network with $p=0$ in the Watts-Strogatz model regular or random?,extractive,text-image,q-bio.NC,2409.09862v3,38,2409.09862v3,38,1,1,True,True,245.9
+88171f15-8cec-409d-b348-be886da7aa7a,What role does concentration play in estimating circular variables like $\mu$?,abstractive,text-table,math.ST,2412.06343v3,6,2412.06343v3,6,1,1,True,True,419.3
+881ec87c-d100-46de-82a7-dd02a7a91d5d,Why is stress testing important for financial strategies?,abstractive,text-table-image,q-fin.TR,2401.03305v2,14,2401.03305v2,14,1,1,True,True,434.9
+88515038-da45-46a0-96b5-e1991a7d9024,How does the implementation of FACT influence agent truthfulness in federated learning?,abstractive,text,cs.GT,2405.13879v3,9,2405.13879v3,2,10,1,True,True,358.2
+88c7356b-c189-4bb2-8895-19edae081ac9,What impact does training data bias have on generative chemical language models like GP-MOLFORMER?,abstractive,text,q-bio.BM,2405.04912v2,7,2405.04912v2,7,1,1,True,True,399.1
+892afe20-b62f-40c7-998c-a54becb9b1d1,Does the proportion of liquidated collateral asset vary depending on the DeFi protocol?,extractive,text,q-fin.RM,2412.00710v2,5,2412.00710v2,5,1,1,True,True,371.1
+894de753-009d-4130-ae1c-e41245817bb6,How did the collapse of Silicon Valley Bank highlight issues with HtM accounting?,abstractive,text,q-fin.RM,2407.03285v2,1,2407.03285v2,1,1,1,True,True,371.0
+89e1e041-15c0-440e-b935-ecf379b5e0ab,Is there a mean-reverting behavior observed in the wind direction at Sotavento Wind Farm?,extractive,text-image,math.ST,2412.06343v3,7,2412.06343v3,7,1,1,True,True,382.4
+8a7b90a0-79b8-4133-965d-6be6e4281f65,"How do $\mathcal{M}, \mathcal{N}$-adhesive categories extend the concept of (quasi)adhesivity?",abstractive,text,cs.LO,2401.12638v7,0,2401.12638v7,1,2,1,True,True,261.4
+8aa884c1-7102-4fe5-839c-2f8b7337f639,Why are quantum algorithms advantageous for studying compressed Hamiltonians?,abstractive,text,quant-ph,2409.12237v2,0,2411.10511v4,2,6,2,True,True,499.2
+8b0c6dc2-ffd5-4977-a56b-63c19f0c5e71,At what temperature does the validity of generated molecules remain consistently high?,extractive,text-image,q-bio.BM,2405.04912v2,19,2405.04912v2,19,1,1,True,True,369.8
+8b2df3d4-077d-4e7c-bda5-0a3f1834d9cd,Does the RSI range from 0 to 100?,extractive,text,q-fin.CP,2412.15448v2,12,2412.15448v2,12,1,1,True,True,536.7
+8c23e599-69df-4703-916e-5140645f852a,What are the benefits of using a perturbed cosine router in language modeling tasks compared to a vanilla cosine router?,abstractive,text-table,stat.ML,2405.14131v3,7,2405.14131v3,7,1,1,True,True,399.4
+8c270ba7-7698-4fe5-82dc-4790162878e0,How does the SmoothInfo method improve upon traditional fractal dimension calculation techniques?,abstractive,text-table,cs.CV,2410.11774v2,16,2410.11774v2,16,1,1,True,True,398.0
+8c690741-29a4-4e57-9508-eaf50a5b9e55,How might financial instruments be used to promote ecosystem restoration?,abstractive,text,econ.GN,2404.14041v2,0,2404.14041v2,0,1,1,True,True,376.2
+8d266054-4960-425d-99c4-52c6b7b75597,"Why is surface tension traditionally considered necessary for pattern selection, and how is this challenged?",abstractive,text-image,nlin.PS,2411.03001v2,0,2411.03001v2,0,1,1,True,True,526.9
+8dd385b1-4a31-494d-8e69-568c61ce315c,What does it mean for two cuts to be compatible in terms of their intersections?,abstractive,text,math.GT,2408.06994v2,4,2408.06994v2,6,2,1,True,True,399.2
+8e75286c-7562-4134-a5c5-1c8165b93d26,What is a grading-restricted vertex algebra?,abstractive,text,math.QA,2408.16309v2,2,2408.16309v2,2,1,1,True,True,398.7
+8f2f108d-8edf-4111-81aa-8dc5bf8211a2,Does the VDF-RLS algorithm maintain stable resistance estimation after excitation ceases?,extractive,text-table-image,cs.SY,2410.14077v2,8,2410.14077v2,8,1,1,True,True,372.9
+8f3a7fa9-0cb3-43be-ac6e-94332e4bf3c0,How does the resolution of mesh affect the performance of VO NURBS versus standard NURBS?,abstractive,text-image,math.NA,2409.15621v2,17,2409.15621v2,17,1,1,True,True,388.7
+8f4a014b-e63d-4682-8eb6-880033cc9f10,Why might researchers choose constrained D-optimal sampling over other strategies?,abstractive,text,stat.CO,2410.20606v3,0,2410.20606v3,1,2,1,True,True,354.5
+8f72501b-f5dc-4017-8311-4e7b80bd568c,Which future experiment could potentially probe the diffuse flux of boosted relic neutrinos?,abstractive,text-image,hep-ph,2405.14946v2,1,2405.14946v2,2,3,1,True,True,372.5
+8fb3c7b7-f79c-4e34-84da-c186154b3e93,How does JWST/NIRSpec contribute to understanding young protostars?,abstractive,text,astro-ph.SR,2410.11095v2,0,2410.11095v2,0,1,1,True,True,392.6
+911d66e9-71a0-4607-920e-fe499f57de5e,How does UPD differ from traditional multiple-choice question answering for LMMs?,abstractive,text,cs.CV,2403.20331v2,0,2403.20331v2,0,1,1,True,True,401.4
+9130c9a4-3c0d-4fb4-a648-9357679b990d,What is the purpose of the varying-order-based NURBS discretization method?,abstractive,text,math.NA,2409.15621v2,12,2409.15621v2,9,3,1,True,True,396.6
+91a1525d-378b-4ee5-accf-d1a114ad75ca,What are some characteristics of the Normal Inverse Gaussian (NIG) distribution that are relevant for moment evaluation?,abstractive,text-image,econ.EM,2410.23587v3,15,2410.23587v3,3,3,1,True,True,369.4
+935fb7f6-48ce-44b6-942d-1bff82ff5f03,How do researchers study gene expression patterns during embryogenesis?,abstractive,text,q-bio.TO,2401.02564v2,1,2401.02564v2,1,1,1,True,True,386.7
+93b5e0aa-fc8a-46ef-85ff-cacbe207adcc,Has vector quantization been applied in both generative and discriminative tasks?,extractive,text,eess.IV,2403.13015v2,2,2403.13015v2,2,1,1,True,True,355.6
+93f438fb-df60-4443-8822-3cb31b9e4c38,What is the Bouc-Wen-Simon-Hunt-Crossley Collision Law used for in mechanical engineering?,extractive,text-image,physics.class-ph,2410.08147v8,5,2410.08147v8,0,5,1,True,True,370.0
+94b0e85f-7737-44f1-97be-34d34bcd9720,Why is a quadratic function used for approximating short-term implied volatility?,abstractive,text,q-fin.PR,2401.03776v8,7,2401.03776v8,7,1,1,True,True,368.2
+95c94231-9276-48c1-9b6b-1a0954dab59a,How are bounds on welfare differences used to identify optimal policy?,abstractive,text,econ.EM,2403.00422v2,11,2407.17037v2,6,4,2,True,True,397.1
+96356cf3-afe2-4230-b1f3-d7caa31c1fde,What is the best performing method for audio inpainting at a gap length of 10 ms?,extractive,text-image,eess.AS,2403.04433v3,8,2403.04433v3,1,,1,False,True,412.1
+96b3a0bc-9c08-46f2-9faf-b4c5b0361278,Does the decay width for $\Sigma_{b}^{* 0} \rightarrow \Sigma_{c}^{+} e \bar{\nu}_{e}$ differ from that of $\Sigma_{b}^{* 0} \rightarrow \Sigma_{c}^{+} \mu \bar{\nu}_{\mu}$?,extractive,text-table-image,hep-ph,2410.11074v3,6,2410.11074v3,6,1,1,True,True,393.9
+96ec912c-81f3-4226-a81e-dd62a9eac72c,Does MARFA aim to provide molecular spectra flexibly and precisely?,extractive,text,astro-ph.EP,2411.03418v4,8,2411.03418v4,18,2,1,True,True,377.3
+9aa80820-6841-4a29-8bc1-fff4b6e64624,Is there a comparison of neural network predictions and Monte Carlo estimations for two different dates?,extractive,text-image,q-fin.CP,2406.02319v2,22,2406.02319v2,22,1,1,True,True,375.3
+9ace0239-0b7e-478a-af20-306c96a0ccc4,Are containers useful for addressing software reproducibility issues in data analysis?,extractive,text,q-bio.OT,2408.09344v2,6,2408.09344v2,6,1,1,True,True,530.2
+9b0b401a-97f1-446b-ad42-6589049d1725,Is Wei-Shi Zheng a professor at Sun Yat-sen University?,extractive,text-image,eess.SP,2402.09444v3,24,2402.09444v3,24,1,1,True,True,401.9
+9b2f0a81-f8c3-48ec-aec6-d215624cba3c,What is the significance of Euler's proof regarding the sum of reciprocals of primes?,abstractive,text,math.GM,2403.04768v3,1,2403.04768v3,1,1,1,True,True,422.6
+9c6ea554-8522-4745-bcd4-5794b8526dc9,What is conformal prediction?,abstractive,text,stat.ME,2406.18052v3,11,2406.08366v2,6,3,3,True,True,382.8
+9da5453e-879c-44eb-a755-74a28ab9fa3f,How does the concept of disks relate to matchings between two point sets?,abstractive,text,cs.CG,2403.08977v2,0,2403.08977v2,2,2,1,True,True,367.8
+9dd09779-a368-4e11-bbb4-d21ef3d52449,What is the objective of the single target location power enhancement problem?,abstractive,text,cs.IT,2412.18817v2,7,2412.18817v2,4,2,1,True,True,402.9
+9e499855-13ff-403f-b34f-2e33e78981eb,Does block affine-identifiability imply block-identifiability?,extractive,text,cs.LG,2409.02772v2,33,2409.02772v2,17,2,1,True,True,515.5
+9e6f8681-0ee6-46ef-8a23-7f7ab0aea645,What is the functional quantile autocovariance?,extractive,text,stat.ME,2405.04904v2,3,2405.04904v2,3,1,1,True,True,381.9
+9ed7864a-1e72-4e8d-b12e-c8711267c83b,What are some challenges faced in CDI diffraction patterns at FELs?,abstractive,text,physics.optics,2409.07413v5,29,2409.07413v5,0,3,1,True,True,382.8
+9f256e4c-2008-4de5-9129-4dc5b1afe0f3,What are the key features and benefits of the Dareplane software platform for BCI research?,abstractive,text-table-image,q-bio.OT,2408.01242v3,1,2408.01242v3,0,2,1,True,True,424.9
+9f53a6f2-b719-49df-8fb6-34eb4fa5e076,What is the downlink throughput at 40 meters altitude?,extractive,text-table-image,cs.IT,2411.09666v2,10,2411.09666v2,10,1,1,True,True,372.5
+9fb4a042-9ec4-43e3-97b7-2ebecbfe667b,Do existing Vietnamese summarization datasets use titles and abstracts as summaries?,extractive,text,cs.CL,2406.15888v2,10,2406.15888v2,10,1,1,True,True,368.7
+a125bd43-9722-49da-936a-01af774cad54,How does the RiLACS test martingale improve hypothesis testing for election audits?,abstractive,text-image,stat.ME,2410.16076v3,11,2410.16076v3,11,1,1,True,True,371.2
+a1ac5079-74a8-44f1-b360-f4a38c7a762c,What issue does zero-masking cause in multi-scale Vision Transformers (ViTs)?,abstractive,text-image,eess.IV,2407.14651v3,5,2407.14651v3,5,1,1,True,True,439.3
+a1b05c92-ae3e-436a-885d-2fb81760783b,How are monomials identified uniquely in generating the operator matrix?,abstractive,text,nlin.CD,2409.14246v2,5,2409.14246v2,5,1,1,True,True,382.5
+a30c73f5-baa4-4ae5-b226-56df14053392,What is a non-autonomous delay differential equation?,extractive,text,math.DS,2411.11402v4,0,2411.11402v4,17,3,1,True,True,376.3
+a3b745fb-7cd2-44d6-9dd8-379518e7cfcc,Is the number of bad triangles always less than or equal to the number of chargeable triangles for any vertex?,extractive,text,cs.DS,2404.17509v2,17,2404.17509v2,17,1,1,True,True,393.3
+a416c0fa-52e2-4082-8ec0-3331e4f608e4,Why is analyzing coupled ODE systems important for studying biological models like those of zebrafish?,abstractive,text,q-bio.TO,2411.15293v2,3,2411.15293v2,6,2,1,True,True,537.7
+a4190309-0126-4c0b-a010-119d1b10ee04,What are Rees valuations and how do they relate to rational powers of ideals?,abstractive,text,math.AC,2402.12350v3,1,2402.12350v3,1,1,1,True,True,532.2
+a4854f1b-cb55-4c86-9c69-89b7394addf3,Is it known if every $\mathcal{C}^{0}$-small contactomorphism has a path connecting it to identity?,extractive,text,math.SG,2411.19887v2,8,2411.19887v2,8,1,1,True,True,533.7
+a511a697-8139-446c-b541-38fc89de1863,Are spurious measurements introduced in high gradient locations?,extractive,text-image,stat.ME,2410.22824v2,5,2410.22824v2,5,1,1,True,True,426.0
+a5c6b6dc-c7a9-4de0-8e14-b64de888b83e,How is pure linear polarization achieved for light near 405 nm?,abstractive,text,cond-mat.quant-gas,2403.18677v2,5,2403.18677v2,4,2,1,True,True,387.1
+a66eb1fb-3254-442c-ad2e-b3ed71b37e09,What are potential applications of understanding branch length inconsistencies under the multispecies coalescent model?,abstractive,text-image,q-bio.PE,2407.02634v3,4,2407.02634v3,1,9,1,True,True,397.2
+a67c14c3-e33b-4bbc-9dd5-da246e9bd038,Is the beta-Poisson approximation valid for all values of \(\beta\) and \(\alpha\)?,extractive,text,q-bio.PE,2404.00822v2,12,2404.00822v2,12,1,1,True,True,247.6
+a6c723b4-b7c7-4269-b1bb-1e245f433ff5,"What does ""J-AM-NoSpec-epsilon"" refer to in terms of program counter (pc) conditions?",extractive,text-image,cs.PL,2405.10089v2,46,2410.15824v2,29,,2,False,True,357.2
+a7ca3059-44f6-468b-a40f-45442bd3bcc7,What is the main idea behind LEO in meta-learning?,abstractive,text,stat.ML,2410.05454v2,16,2410.05454v2,16,1,1,True,True,358.0
+a9d5d122-e858-4ad2-84df-8ed387840df5,What is the principle behind 3-gamma PET imaging and how does it enhance oncology imaging?,abstractive,text-image,physics.med-ph,2407.18337v4,1,2407.18337v4,1,1,1,True,True,722.7
+ac9aaf2c-7e56-46a0-ab31-9823e949e91f,Is FAST a hybrid simulator?,extractive,text,cs.AR,2403.04635v2,29,2403.04635v2,29,1,1,True,True,514.7
+ad04523d-ab6c-414d-9c58-5ed28d2fbe86,How does transforming measurements into the dq coordinate frame aid in impedance estimation?,abstractive,text,cs.SY,2410.14077v2,0,2410.14077v2,0,1,1,True,True,393.7
+ad274b6e-0135-4500-8e27-700e930e01ee,Can constraint violation terms $C^{\alpha}$ be avoided by changing spin supplementary conditions?,extractive,text,gr-qc,2406.10343v4,15,2412.14918v3,14,2,2,True,True,402.3
+ad42be9e-50bf-4872-a7a5-01fa02b57084,Are there more than two primes satisfying the equation \(y \ln p=2 n \pi+\gamma\)?,extractive,text,math.GM,2403.04768v3,2,2403.04768v3,2,1,1,True,True,372.3
+adda272d-9499-4dc2-a1e0-68969915b916,What institutional factors were investigated to see if they correlated with school admission reforms?,abstractive,text,econ.GN,2402.04429v3,9,2402.04429v3,9,1,1,True,True,414.8
+b05ded61-c3d2-4c72-814f-03fa86e94f5a,What are examples of general words that describe diagnostic procedures without mentioning surgery?,abstractive,text,eess.AS,2406.13337v3,33,2406.13337v3,33,1,1,True,True,521.0
+b0a0059f-6ea5-406b-95dc-5268a75f01aa,What analogy is used to justify the scalability assumption in economics?,abstractive,text,econ.GN,2412.00886v2,8,2412.00886v2,8,1,1,True,True,392.5
+b1e4c767-c973-49fc-94a5-9892925297d1,Is there any model that fully denies all loan requests?,extractive,text-image,cs.AI,2411.11853v3,20,2411.11853v3,11,3,1,True,True,524.1
+b1fc9796-a0cb-401a-bea9-a4104cf20497,Is it challenging to quantify the landscape for high-dimensional oscillatory systems accurately using classical energy landscape theory?,extractive,text,q-bio.QM,2401.06959v2,0,2401.06959v2,1,2,1,True,True,363.7
+b28ae2dd-9ad8-4f68-b155-598d39965a21,How can the Hilbert transform be generalized for use on graphs?,abstractive,text,eess.SP,2412.18501v3,0,2412.18501v3,8,3,1,True,True,378.2
+b2a84f67-2f0b-476b-817e-ea19f0bf9493,What is a well-behaved rDFA?,extractive,text,cs.FL,2402.13385v2,27,2402.13385v2,21,3,1,True,True,409.8
+b329d76e-86b9-41a7-9a51-31e7ed08f0bf,Do surface melting points occur at lower temperatures than core melting points in Fe nanoclusters?,extractive,text,physics.atm-clus,2409.02293v3,0,2409.02293v3,0,1,1,True,True,385.8
+b38c1d96-6a0c-4e01-be0f-fa48f65f268a,What role does the parameter $\beta$ play in optimizing computational performance for vortex filament models?,abstractive,text-table-image,physics.comp-ph,2406.07366v2,0,2406.07366v2,0,1,1,True,True,392.9
+b3fa82da-bef1-4ec5-8e1c-121f45ccd450,How are events encoded in a given time interval?,abstractive,text,q-fin.TR,2408.02322v2,6,2408.02322v2,6,1,1,True,True,247.1
+b4595669-6205-48df-8fe6-c4a26a0ddfad,Can a PoS protocol regain liveness once an honest majority is restored?,extractive,text,cs.GT,2409.08951v2,23,2409.08951v2,23,1,1,True,True,357.0
+b4a46d6b-ad36-4014-b05c-b60d8c8f4da0,How do the Naive Serial Dictatorship and Linear Exchange methods differ in terms of matching outcomes for children and homes?,abstractive,text-table,econ.TH,2411.12860v4,11,2411.12860v4,11,1,1,True,True,393.8
+b4fe4430-adef-443f-92f2-2dce84650328,What are some examples of task-specific prompts used in different audio classification tasks?,abstractive,text-table-image,cs.SD,2501.00398v2,12,2501.00398v2,12,1,1,True,True,246.6
+b5c39492-ac11-42c4-a1ef-060a02ae6dea,Is Giannis Antetokounmpo slightly better near the basket compared to LeBron James?,extractive,text-image,stat.ME,2411.07984v2,13,2411.07984v2,13,1,1,True,True,375.7
+b5ea38df-b139-4a1a-be0d-e2ad8b203ce1,In what way do informational spillovers affect decisions about continuing or abandoning research?,abstractive,text,econ.GN,2412.03227v2,4,2412.03227v2,4,1,1,True,True,395.8
+b62dad21-a36a-41c9-8a9d-cb65353828bb,Which model shows superior results in histone modification tasks?,extractive,text-table,cs.LG,2411.02796v2,25,2411.02796v2,7,2,1,True,True,411.2
+b7017c12-0625-4c9c-baef-128f65b22da0,What potential consequences could arise if Ursus fails to repay the loan?,abstractive,text,cs.AI,2411.11853v3,11,2411.11853v3,11,1,1,True,True,266.1
+b7123237-5ecc-4428-bb15-fc8d6f166597,How do urban and rural real estate price distributions differ in France?,abstractive,text-image,cond-mat.stat-mech,2412.14624v2,5,2412.14624v2,5,1,1,True,True,366.2
+b7627ca4-e7c6-4bc1-bfa9-93c4f09608bc,What happens to the temporal order of events on a spacelike path after Lorentz transformation?,abstractive,text,physics.gen-ph,2412.05495v6,2,2412.05495v6,2,1,1,True,True,412.8
+b76a0e45-7cbb-4608-b8ee-2c771ea27ef0,What conditions make ultrametric balls equivalent to other geometric shapes like boxes or singletons?,abstractive,text-image,math.RA,2401.07317v2,8,2412.15576v4,12,,2,False,True,379.1
+b837e362-4b34-4962-bf7b-534c25f8bd94,Does the DREP module account for energy measurement uncertainties?,extractive,text,physics.med-ph,2407.18337v4,14,2407.18337v4,14,1,1,True,True,388.2
+b8a0321e-da8d-4e34-ba40-a35e46c056c8,How do concurrent composition theorems apply to differential privacy?,abstractive,text-image,cs.DS,2411.03299v2,2,2411.03299v2,1,2,1,True,True,271.4
+b8ffd9ba-b30e-4e81-8e9a-5cf42529113b,How does initial tracking using envelope estimation compare to direct audio mixture tracking?,abstractive,text-table-image,eess.AS,2409.04843v2,9,2409.04843v2,9,1,1,True,True,349.8
+b9f96e77-09e0-4795-ab19-9353bbac0f7e,How do different infrared wavelengths perform in cyclone prediction models?,abstractive,text-image,physics.ao-ph,2409.16507v2,42,2409.16507v2,10,,1,False,True,534.0
+ba135f3f-566d-4624-97a8-4000b4d3d405,Is there a unique solution to the phase problem if certain conditions are met?,extractive,text,physics.optics,2409.07413v5,1,2409.07413v5,17,2,1,True,True,399.5
+ba40f2aa-dd74-4c03-a067-c8563769bdbb,What role do Conduché fibrations play in locally cartesian closed $\infty$-toposes?,abstractive,text-image,math.CT,2408.14335v2,3,2408.14335v2,3,1,1,True,True,384.8
+bad99660-ee88-4f0e-b427-33c57050f4c6,Is Partial Experts Checkpointing device-specific or device-agnostic?,extractive,text,cs.DC,2408.04307v3,7,2408.04307v3,7,1,1,True,True,379.1
+bb2e8d94-0745-4e5f-b922-776cf721187b,What are the key factors influencing truncation errors in vortex dynamics?,abstractive,text-image,physics.comp-ph,2406.07366v2,2,2406.07366v2,2,1,1,True,True,397.1
+bc047bab-2324-4d94-9c0a-9a702c6b4bc6,Who posed an influential challenge to CEM in 2000?,extractive,text,cs.AI,2405.11284v3,16,2405.11284v3,16,1,1,True,True,366.5
+bd137383-949d-49c8-8402-3934dbd73c76,How does decoupling memory load and store interfaces benefit loop pipelining?,abstractive,text,physics.flu-dyn,2411.16245v2,8,2411.16245v2,8,1,1,True,True,360.7
+bd80d1d1-5f8a-494f-9bb8-20de73745735,Can de Boor's algorithm be used to evaluate spline positions and derivatives at any location $\tau$?,extractive,text,physics.comp-ph,2406.07366v2,1,2406.07366v2,1,1,1,True,True,541.9
+bda1e55c-685c-4c57-8598-8297b46dfdfb,What is the relationship between \( f_D \) and \( f_m \) in the Doppler cone?,extractive,text-image,eess.SP,2409.01631v3,3,2409.01631v3,3,1,1,True,True,391.9
+be6942ea-b6fc-44c6-ba02-9c5d4f1edf20,How does graph-based encoding enhance SQL query generation?,abstractive,text-image,cs.DB,2408.05109v4,13,2408.05109v4,13,1,1,True,True,365.8
+be831640-25f4-4cb1-9ec1-5dba8686cb96,Why is controlling skyrmion helicity significant for technological applications?,abstractive,text,cond-mat.mes-hall,2406.00785v2,0,2406.00785v2,0,1,1,True,True,510.4
+be885c91-e5bd-4abb-a29c-f8ab77243e28,Do Minimax and Split Cycle methods satisfy positive involvement and the Condorcet winner criterion?,extractive,text,econ.TH,2401.05657v5,3,2401.05657v5,3,1,1,True,True,512.1
+be90c575-2df0-4ddb-a7b5-a7fa60f05ce0,How do mass ratios affect gravitational wave detections in binary neutron star and neutron star-black hole systems?,abstractive,text-image,astro-ph.HE,2411.13673v2,7,2411.13673v2,7,1,1,True,True,368.6
+beeac53a-fbba-4551-b569-d82e6e365224,What challenge does modeling expectations for narrative content present compared to structured attributes like price and quality?,abstractive,text,cs.CL,2412.15239v2,2,2412.15239v2,2,1,1,True,True,367.5
+bf5656ac-468b-43c6-a0ba-9b1e62659c90,What is AlArena?,extractive,text,cs.CR,2412.14566v2,3,2412.14566v2,5,5,1,True,True,371.9
+bf99ee8f-a5ee-4424-a935-09352d6bf2dc,What implications do new findings on distribution function limits have for causal inference studies?,abstractive,text,math.ST,2405.08806v2,2,2405.08806v2,2,1,1,True,True,361.7
+c0829b5c-f160-4a63-b58d-45aa1f5134f1,What is the correlation between Bullying Int and Homophobic Int?,abstractive,text-image,stat.ME,2411.18481v2,2,2411.18481v2,2,1,1,True,True,725.8
+c15e6678-b2c3-419c-b834-e0917d1680c4,How can upper bounds on missing intensities improve reconstruction quality?,abstractive,text-image,physics.optics,2409.07413v5,30,2409.07413v5,30,1,1,True,True,415.2
+c1eb1444-d41d-4c8b-aabc-c26946b06763,How does Koszul duality contribute to understanding curved Morita deformations?,abstractive,text-image,math.KT,2406.04945v2,1,2406.04945v2,0,2,1,True,True,395.6
+c22279aa-7de5-453a-b6d2-0ac55e41bc60,How does a dense triangular layout compare to a linear layout in terms of pulse length per QEC cycle?,abstractive,text-image,quant-ph,2412.14918v3,17,2412.14918v3,17,1,1,True,True,514.0
+c3807016-d1fa-4b0e-9a5e-a8cb9bb2b2b7,In what ways do classical perturbation methods differ from data-driven approaches like the Koopman operator in astrodynamics?,abstractive,text,nlin.CD,2409.14246v2,1,2409.14246v2,1,1,1,True,True,381.8
+c41bc7d1-6d95-48f6-8603-53a3e6b03ef0,How do different prediction methods perform concerning mean size intervals when predicting home prices?,abstractive,text-table-image,stat.ME,2406.08366v2,4,2406.08366v2,17,9,1,True,True,685.3
+c45f4e48-c400-40d0-9966-87f47a376a1c,What does the Residuals vs. Predicted Values plot indicate about linearity and homoscedasticity?,abstractive,text-image,q-bio.QM,2412.20245v4,16,2412.20245v4,16,1,1,True,True,396.2
+c5ef96d1-c1a9-4e38-a808-4df4cdce13a2,How do altitude changes impact signal reception for UAVs using different devices?,abstractive,text-image,cs.IT,2411.09666v2,12,2411.09666v2,12,1,1,True,True,514.5
+c6346819-c642-4b1f-9d6a-49430ba4ca8d,Was there a slowdown in the growth rate of carbon intensity for rural areas between the periods of 2000-2011 and 2011-2022?,extractive,text-image,econ.GN,2412.06360v4,16,2412.06360v4,16,1,1,True,True,384.4
+c75a52d2-7f9d-42df-bb74-eec74f755885,What role does the symplectic current play in defining global flux-balance laws?,abstractive,text,gr-qc,2406.10343v4,6,2406.10343v4,6,1,1,True,True,271.8
+c765d0cd-222c-4bd0-9d29-ed9e420ae2c7,Why is coordinate-wise median aggregation used in federated learning experiments?,abstractive,text-image,cs.LG,2412.00980v2,40,2412.00980v2,18,3,1,True,True,363.6
+c7de245c-b160-4ccb-bdd8-8a108caf4bc3,What measures did New Zealand implement to control Covid-19 transmission before achieving high vaccine coverage?,abstractive,text,stat.AP,2412.08927v2,2,2412.08927v2,2,1,1,True,True,375.0
+c9b7a05a-52f5-422b-8df9-4b7d4ba6447c,What happens if the lower bound on $P(X+Y \leq z)$ is not achievable under a copula $C_t$?,abstractive,text,math.ST,2405.08806v2,9,2405.08806v2,12,2,1,True,True,380.7
+c9ea607a-8206-431e-b5fd-fa7a4007870e,How does re-compression affect the detection of manipulated images?,abstractive,text,cs.CR,2408.17106v2,0,2408.17106v2,18,3,1,True,True,507.8
+c9fb8e63-6f77-4ddf-8769-fb091c667446,How does Wav2vec2.0 improve speech recognition in noisy classroom settings?,abstractive,text,cs.CL,2409.14494v3,1,2409.14494v3,1,1,1,True,True,391.7
+c9fcbed7-ddc7-49b8-8eb2-4d8ff7bc49c5,Why is it important to balance interaction and controllability in market simulation engines?,abstractive,text,q-fin.CP,2409.07486v2,31,2409.07486v2,11,6,1,True,True,533.3
+ca35d598-a95d-4618-a2f0-21a8bd24545b,What theoretical rationale supports using multilevel metamodels in simulation studies?,abstractive,text,stat.ME,2401.07294v4,0,2401.07294v4,15,2,1,True,True,396.4
+cad10b9b-228a-4664-9ec3-5fb9b821803a,How are prime numbers related to zero-free regions for Dirichlet L-functions?,abstractive,text-image,math.GM,2412.11130v5,12,2412.11130v5,12,1,1,True,True,588.7
+cbe23e02-8075-4f2e-96e8-67c8dd60887a,Why is it challenging to monitor individual-level disease prevalence during pandemics?,abstractive,text-image,physics.soc-ph,2406.09983v2,1,2406.09983v2,1,1,1,True,True,249.8
+cc263a55-e13c-4b93-984d-e368d2a9852e,Is there a maximum limit to the wait time in PyGen's exponential backoff model?,extractive,text,cs.SE,2411.08932v2,13,2411.08932v2,13,1,1,True,True,427.0
+cc631a16-d651-4d3c-992f-02f6b99c0144,How is the ADO invariant defined for colored knotted graphs?,extractive,text-image,math.GT,2501.00225v2,5,2501.00225v2,5,1,1,True,True,536.2
+cc8a03e0-071e-4cd4-b218-bbc0f60eaf35,Are emergency or urgent admissions more likely to result in a one-day stay?,extractive,text-image,econ.EM,2402.02272v2,24,2402.02272v2,24,1,1,True,True,380.2
+ccf533dd-9f24-4fc0-bdce-b254c9cac039,What is the significance of studying semileptonic decays in heavy baryons?,abstractive,text,hep-ph,2410.11074v3,1,2410.11074v3,1,1,1,True,True,394.5
+ce80e7b0-d3fc-4ac1-a386-6d1c9e8705bf,What are some properties that define a semi-metric used in max-sum matchings?,abstractive,text,cs.CG,2403.08977v2,1,2403.08977v2,1,1,1,True,True,391.0
+cf5cd917-d7f2-458d-9814-df973c3a8c32,What happens to the AB-phase shift when considering rapidly oscillating sinusoidal magnetic flux?,abstractive,text,quant-ph,2406.18046v2,9,2406.18046v2,9,1,1,True,True,365.5
+cff4951d-1697-40f7-8c42-d79f76e69e1f,Is there an extreme EM selection effect based on viewing angle for NSBHs?,extractive,text,astro-ph.HE,2411.13673v2,9,2411.13673v2,9,1,1,True,True,368.3
+d02b6996-748b-466d-aabf-be22fc8d78b9,How does the von Mises-Fisher distribution affect scatterer behavior in wireless channels?,abstractive,text,eess.SP,2409.01631v3,0,2409.01631v3,0,1,1,True,True,432.1
+d03011fb-825a-42df-a28e-e3ef1f63d2ef,Why might an informed trader experience reduced utility despite having superior information?,abstractive,text,q-fin.TR,2404.08757v2,0,2404.08757v2,6,6,1,True,True,369.2
+d12b71ab-e3a5-41ec-9722-5702577d027f,Can the problem be simplified by considering transformation requirements for recognizing topological conjugacy and Pareto front geometry in two-dimensional objective function space?,extractive,text,math.DS,2409.18681v6,8,2409.18681v6,8,1,1,True,True,261.3
+d1e9cac9-cd15-4910-ad94-4eac7c3207a6,What are trace-invariants in the context of tensor components?,abstractive,text-image,math-ph,2410.00908v2,12,2410.00908v2,12,1,1,True,True,369.7
+d24ad2c6-0f55-4ae7-8e58-f7a4a12e8ad8,Does Virtuoso allow for easy development of new OS routines without expert knowledge?,extractive,text,cs.AR,2403.04635v2,6,2403.04635v2,6,1,1,True,True,236.3
+d30639b4-d312-47b4-a347-c98a640930ad,Is the Riemann-Liouville fractional Brownian motion used in rough volatility models Markovian?,extractive,text,q-fin.MF,2401.03345v2,2,2401.03345v2,2,1,1,True,True,368.4
+d364746a-e6c4-457f-b213-217bd899393a,What influences the ATM skew in the Edgeworth series?,abstractive,text,q-fin.PR,2401.03776v8,13,2401.03776v8,13,1,1,True,True,383.4
+d38cb8f3-55f4-419e-b891-c597a5f5d0e8,How do bimodules induce adjoint pairs of dg-functors between module categories?,abstractive,text-image,math.KT,2406.04945v2,2,2406.04945v2,2,1,1,True,True,258.2
+d3ed1d7f-2d8a-4021-acf0-ad6d901e38e5,What is the median redshift of the MGS catalog?,extractive,text,astro-ph.CO,2411.03988v2,5,2411.03988v2,5,1,1,True,True,411.2
+d592dbe2-711c-4538-a23a-8450accf69aa,Is it possible for an agent to have zero swap regret using a contextual no-swap-regret algorithm?,extractive,text,cs.GT,2402.09721v6,12,2402.09721v6,6,9,1,True,True,392.3
+d5e0680a-f367-4778-8b3e-8cd02d1700a4,Does the use of conflict-free gradients improve optimization stability in RNA modeling?,extractive,text,physics.bio-ph,2411.09216v2,7,2411.09216v2,7,1,1,True,True,360.3
+d6777c89-1808-4dcd-9f7a-9ad42e891081,Are the trajectory categories based on combinations of speed and curvature intervals?,extractive,text-image,cs.RO,2412.12448v2,5,2412.12448v2,5,1,1,True,True,456.1
+d6a56cc4-8b25-4cea-a9c6-8154db6ffca9,Is education in Spain regulated at a national level by an organic law?,extractive,text,physics.soc-ph,2412.15929v3,3,2412.15929v3,3,1,1,True,True,857.8
+d756c325-13d3-4afb-84f3-8d242818558e,Is Chu energy used as an inner product for I/O analysis of compressible flows?,extractive,text,physics.flu-dyn,2407.14986v2,5,2407.14986v2,5,1,1,True,True,379.4
+d9653b7c-5ace-4aa4-ad81-39c3e739a67c,What might be done with stolen data after gaining access through phishing?,abstractive,text,cs.CR,2407.16205v5,35,2407.16205v5,35,1,1,True,True,379.6
+d96588a5-1d68-40f4-ae66-086cf7caf49a,Does the normalized attention entropy decrease across layers during training?,extractive,text-image,cs.LG,2410.05459v2,9,2410.05459v2,9,1,1,True,True,814.9
+d974af0c-ef46-4e87-ae27-95d9ea694b7b,What information should be included for each sample of a sharp stock drop?,abstractive,text,q-fin.CP,2409.07486v2,38,2409.07486v2,38,1,1,True,True,393.2
+d9826292-314c-478e-b8d6-a1ccd6c388e2,What relationship exists between Halin’s end-degree conjecture and the Singular Cardinal Hypothesis?,abstractive,text,math.LO,2411.11841v3,0,2411.11841v3,0,1,1,True,True,394.5
+d9cb152b-c869-4088-956b-96b9b95ffd95,How do different line cut-off conditions affect CO2 absorption cross-sections at Venus’s surface?,abstractive,text-image,astro-ph.EP,2411.03418v4,9,2411.03418v4,9,1,1,True,True,409.8
+d9f19950-b63d-4b26-9e26-c12a8af30c92,How does the fine-scale fingerprint registration method perform under varying noise conditions?,abstractive,text-table-image,eess.IV,2412.08070v2,9,2412.08070v2,9,1,1,True,True,360.0
+db052c71-e057-4b2e-896b-0a36b9f03bf8,What is the volume conjecture in relation to double twist knots?,abstractive,text,math.GT,2501.00225v2,0,2501.00225v2,1,2,1,True,True,387.0
+dbb9c594-0cfe-48b2-9afe-2b865aa54144,What is the role of histone acetyltransferases (HATs) in enhancer activation?,abstractive,text,q-bio.MN,2412.11336v3,10,2412.11336v3,2,2,1,True,True,407.9
+dbe52ec8-ff7e-4ad7-b9a4-17ca01822e93,Are there any differences in how containment health index correlates with event containment scores across various COVID-19 variants?,extractive,text-table-image,physics.soc-ph,2406.09983v2,4,2406.09983v2,5,2,1,True,True,502.2
+dc1ee820-c59e-41e8-a26b-72b925e3f79b,What does increasing resolution in $\mathbf{k}$ space do to the field of view in the reconstructed image?,abstractive,text,eess.IV,2410.16290v4,6,2410.16290v4,6,1,1,True,True,378.6
+dc94f2d6-6dff-43bf-942a-47b2b1d3949c,How are initial values used in practical applications of cavitation modeling?,abstractive,text,physics.comp-ph,2408.16142v4,1,2408.16142v4,1,1,1,True,True,467.5
+dcb59b54-b8ea-46df-a604-d2ed473cd0a9,What is the significance of pro-cdh descent in derived schemes?,abstractive,text,math.KT,2407.04378v2,0,2407.04378v2,2,4,1,True,True,398.9
+dd0945ee-5b4e-4b00-a0cc-4856cafbfef0,Which method has the lowest Fréchet Audio Distance (FAD) for Vocal Imitation?,extractive,text-table,cs.SD,2406.05923v2,15,2406.05923v2,15,1,1,True,True,351.9
+dd3d85c8-4533-4902-ac3b-6f8afde1b3e4,Can cosmetics be considered chemical substances?,extractive,text,eess.AS,2406.13337v3,29,2406.13337v3,29,1,1,True,True,245.6
+de8cac4a-ac29-474e-9200-1804533f62d7,Why might traditional axiomatic set theories be inconsistent with mainstream mathematics?,abstractive,text,math.LO,2407.02507v2,0,2407.02507v2,0,1,1,True,True,552.4
+df5db798-3724-4160-b5fa-a3c4c556afa8,What challenges arise from overrepresentation of certain RNA strand lengths in training sets?,abstractive,text-image,q-bio.BM,2406.13839v3,9,2406.13839v2,9,2,2,True,True,384.7
+df8ac158-41e3-436d-a146-d30df2647c0b,Does any VMA exceed a size of 1GB?,extractive,text-image,cs.AR,2403.04635v2,24,2403.04635v2,24,1,1,True,True,391.9
+e0cbb2b2-3635-4946-9591-b7b729b64db6,How does knowledge distillation aid in accent conversion models?,abstractive,text-image,cs.SD,2410.14997v2,3,2410.14997v2,3,1,1,True,True,396.4
+e186d0f9-ed54-40ae-a8c6-590bf3ebbed5,What is the purpose of using ibaf-graphs in system state visualization?,abstractive,text-image,nlin.CG,2406.10704v4,3,2406.10704v4,3,1,1,True,True,390.1
+e23c568d-2d0d-411b-b118-b4662781046e,Under what conditions is every right R-module considered co-Kasch?,extractive,text,math.RA,2409.04059v3,0,2409.04059v3,1,2,1,True,True,252.5
+e2eebe4d-f9c9-4148-a778-09900332f802,Who is the creator of the WhizReviewer-123B model?,extractive,text-table,cs.CL,2411.00816v2,35,2411.00816v2,35,1,1,True,True,364.4
+e34c08b7-40b7-4814-b6d7-cad4c5b0cca6,What does the p-value indicate about the normality of simulated behavioral versus rational expectation models?,extractive,text-table,econ.GN,2411.17165v2,7,2411.17165v2,7,1,1,True,True,365.8
+e465a9b5-996c-4cd4-8d80-d34630039c0c,What does the CDE algorithm manage and expand?,abstractive,text,cs.LG,2408.09838v2,19,2408.09838v2,19,1,1,True,True,392.5
+e4ea03ab-ce37-499a-a719-eb4886987cdc,"How does the concept of ""animal spirits"" relate to economic expectations under the Zero Lower Bound conditions?",abstractive,text-table,econ.TH,2409.10938v2,9,2409.10938v2,1,2,1,True,True,374.8
+e5ad17d5-b9ad-4b0d-a0d4-78c883cae63a,What is the finite $N$ multiplicative extension of classical cumulants?,extractive,text,math-ph,2410.00908v2,9,2410.00908v2,9,1,1,True,True,236.3
+e792ebe7-abc1-48fe-9a31-6bf647f92b15,Does the asymptotic variance deteriorate as $\left|\theta_{0}-\theta\right|$ increases in a single-stage estimation?,extractive,text,math.ST,2402.04840v3,9,2402.04840v3,9,1,1,True,True,377.6
+e8cca8ca-89e1-4267-a485-435af0d8b7c9,How is the transmitted signal for DMA defined?,extractive,text,cs.IT,2411.05659v3,4,2411.05659v3,4,1,1,True,True,376.7
+e8f4c222-36cb-41f3-b76a-b6c0bec450ef,Do Locally Unordered GNNs (LU-GNNs) produce identical embeddings for non-isomorphic graphs?,extractive,text,cs.LG,2408.06050v2,4,2408.06050v2,36,2,1,True,True,466.6
+ebb8af21-995e-48ec-8d80-d8b75e38685a,"During which process do fault frequencies concentrate near $0 \mathrm{~Hz}, 4000 \mathrm{~Hz}, 6000 \mathrm{~Hz}, 8000 \mathrm{~Hz}$, and $12000 Hz$?",extractive,text,cs.LG,2406.11917v2,20,2406.11917v2,20,1,1,True,True,410.3
+ec8a9ccf-7f49-4924-bc92-f42d0e06b6f6,What are kinetically constrained spin chains and their significance in quantum systems?,abstractive,text,cond-mat.stat-mech,2411.03309v2,0,2411.03309v2,0,1,1,True,True,406.1
+ec996c14-0e18-4742-b7ad-f7ff7e30b0e5,Does Telegram have a significant role in spreading conspiracy theories?,extractive,text,cs.SI,2410.08642v2,5,2410.08642v2,18,2,1,True,True,443.6
+ecb87740-bdfa-4516-8eac-8c6d369f046e,Are human parasites limited to helminths and protozoans?,extractive,text,q-bio.OT,2501.01454v2,23,2501.01454v2,25,2,1,True,True,408.5
+ed17f550-59f0-4053-9e42-5e0cb22e0c38,Why is it important to estimate noisy signal embeddings separately from speech embeddings?,abstractive,text-image,eess.AS,2404.18501v3,7,2404.18501v3,3,4,1,True,True,394.9
+ed9c8470-f0e3-4fa4-ad99-0bd4cf4c37fb,What are Hurwitz algebras and how do they relate to vector product algebras?,abstractive,text-image,math.QA,2402.03637v2,17,2402.03637v2,17,1,1,True,True,382.6
+eda089ac-cd1e-4887-8a1f-48ee5c0f874b,Do traditional ML models like random forests and SVMs perform well on k-mer counts in bioinformatics?,extractive,text,q-bio.GN,2405.05998v3,5,2405.05998v3,5,1,1,True,True,489.9
+edbb99f4-6de2-4c52-ab2f-6a1906b37af9,What does NetMHCpan predict in relation to personalized cancer vaccines?,abstractive,text,cs.LG,2403.12117v2,15,2403.12117v2,15,1,1,True,True,654.3
+ee84d07d-9427-4e24-8670-98cd9f0bdb0e,Why might ARB overestimate bias for smaller population parameters?,abstractive,text,stat.ME,2411.18481v2,1,2411.18481v2,1,1,1,True,True,423.7
+ee9b1663-66c3-4354-8c57-08ec1bf1a93a,Does the $\mathrm{N}_{2}-\mathrm{N}_{2 \cdot 1}$ configuration reduce oscillation errors in contact forces?,extractive,text-table-image,math.NA,2409.15621v2,16,2409.15621v2,16,1,1,True,True,393.4
+ee9df738-24df-4d74-b06b-e9429d1cdd0b,Does a smaller habit formation persistence ($\rho$) result in stricter austerity measures?,extractive,text-image,q-fin.MF,2406.20063v3,10,2406.20063v3,10,1,1,True,True,473.4
+eef13877-a35a-45f4-a7f5-3ed4ae1e722b,Is there a clustering of data points near any specific percentage for SR at stronger RSSI levels?,extractive,text-image,cs.NI,2410.24112v2,11,2410.24112v2,11,1,1,True,True,622.3
+efbd8b72-fd87-404d-91a8-dd9436345aaf,How can mathematical models predict bone growth around implants?,abstractive,text,q-bio.QM,2408.03820v2,15,2408.03820v2,15,1,1,True,True,580.7
+f02760bb-e929-4f18-b12c-2690641fcd97,What is a common choice for environment representation in local motion planning?,extractive,text,cs.RO,2410.20267v2,2,2410.20267v2,2,1,1,True,True,524.7
+f04fcd40-96fd-4bfc-8e75-5bee21fe57f8,How can evaluating sacrifices between individuals reveal insights into societal views on inequality?,abstractive,text,econ.TH,2408.04814v3,0,2408.04814v3,8,2,1,True,True,288.1
+f1397d88-affb-4a3c-bf42-13c45053fa9d,Does TSPE apply to multiple audio classification datasets?,extractive,text,cs.SD,2501.00398v2,9,2501.00398v2,1,7,1,True,True,578.7
+f3855074-2a80-4742-bd7b-af4298f11ca6,Does vector transport involve transferring tangent vectors between different tangent spaces?,extractive,text,eess.SP,2410.08287v3,5,2410.08287v3,5,1,1,True,True,570.7
+f3c3f571-8d7a-46f5-bfe0-bc0bdbde1d2c,How do some studies handle non-convex visibility constraints in dynamic obstacle environments?,abstractive,text,cs.RO,2411.18086v2,2,2411.18086v2,15,2,1,True,True,465.7
+f4b8a42f-de8b-4f52-9cac-fadbdadb013e,What problem can occur with Euclidean VQVAEs related to codebook vectors?,abstractive,text,eess.IV,2403.13015v2,9,2403.13015v2,9,1,1,True,True,447.8
+f4c3960c-e870-4401-be82-f1bbfed9deec,What is the mean market cap in USD billion for firms targeted by NGOs?,extractive,text-table,econ.GN,2411.06875v3,15,2411.06875v3,2,3,1,True,True,561.9
+f4dbc547-2267-4dc7-82e2-0c39c68b9a64,"For which values of \( l \), does dim\( H^{\frac{1}{2}}_{} (V^{l}(\mathfrak{h}), V^{l}(\mathfrak{h}))\neq0\)?",extractive,text,math.QA,2408.16309v2,11,2408.16309v2,11,1,1,True,True,528.0
+f5a64559-39a2-4bfa-965a-cb298328c166,Is the operation $\boxplus$ associative?,extractive,text,math.RA,2401.07317v2,2,2401.07317v2,2,1,1,True,True,532.4
+f5c6b9d2-1fed-452a-af9f-35a0dd361965,Does increasing frequency width help reduce thermal noise relative to the filament signal?,extractive,text,astro-ph.CO,2411.03988v2,14,2411.03988v2,14,1,1,True,True,330.7
+f620b37b-68e9-46a5-a509-013c700fc459,Which chemicals have a mean absolute sensitivity value of approximately 0.295?,extractive,text-table-image,q-bio.MN,2401.06987v2,15,2401.06987v2,15,1,1,True,True,406.3
+f667fcfc-4b78-4f49-88c7-b240f460affb,Is $\operatorname{Aut}(B)$ a closed subgroup of $\operatorname{Sym}(\mathbb{N})$?,extractive,text,math.GT,2408.06994v2,3,2408.06994v2,3,1,1,True,True,468.0
+f6d3ba15-6b01-45e4-8281-f70652e24ab5,Does the device exhibit a Schottky barrier at interfaces?,extractive,text-image,cond-mat.mtrl-sci,2411.07216v2,7,2411.07216v2,0,2,1,True,True,452.9
+f71c1f18-8f6f-4e56-a6b7-d3cfc4085484,What role does the UNK CSIT Department play in advancing VR education?,abstractive,text,cs.GL,2407.02591v1,6,2407.02591v1,6,1,1,True,True,534.6
+f861fbbb-5fc1-4abb-a690-13ef1c41065a,What is the significance of topological winding in superconductors?,abstractive,text-image,cond-mat.supr-con,2412.13042v2,11,2412.13042v2,0,5,1,True,True,562.8
+f89c1c8a-1fa5-4d7c-a8c8-6c3bd869e942,In what ways does the process of melting differ between small nanoclusters and larger nanoparticles or bulk materials?,abstractive,text,physics.atm-clus,2409.02293v3,1,2409.02293v3,1,1,1,True,True,527.4
+f910f9d1-301f-4150-8c72-60b605cf32d6,Does the LLM make investment decisions based on retrieved memories?,extractive,text,cs.CL,2408.11878v2,53,2409.17266v2,3,2,2,True,True,388.4
+f9ce4d40-606e-41e3-9f74-938ad0810117,Are matrix techniques used in the improvements of Heron and Heinz inequalities?,extractive,text,math.FA,2409.16171v2,0,2409.16171v2,8,,1,False,True,481.0
+fa678a21-e5c2-4c94-a954-94cb7d196c19,How does Dareplane enhance experimental setups for adaptive deep brain stimulation?,abstractive,text,q-bio.OT,2408.01242v3,0,2408.01242v3,0,1,1,True,True,415.3
+faa2bf74-b122-487f-972c-3f3e37b20e38,How does chemical homeostasis influence branching patterns in engineered cell clusters?,abstractive,text-image,cs.LG,2407.06295v3,42,2407.06295v3,36,,1,False,True,698.1
+facae629-a39b-45c3-898e-50efde98c32a,Why are irreducible factors absent in certain $L^{2}$-spaces with manifold targets?,abstractive,text,math.MG,2412.13914v3,0,2412.13914v3,1,2,1,True,True,577.8
+fadd1bc2-321c-4aab-9a86-1f294e6a17af,Is there any overlap between AVSync-15 and AudioSet in their respective sets?,extractive,text-table,cs.CV,2412.15322v2,20,2412.15322v2,20,1,1,True,True,497.2
+faebc074-914d-460f-944f-b9a23030731c,What does the adjacency matrix represent in graph theory?,extractive,text,unknown,2410.22706v2,3,2410.22706v2,3,1,1,True,True,397.2
+fb75a581-8567-49b9-a2f8-9aa57fbb199b,How does OTFS modulation improve communication in high-mobility environments compared to OFDM?,abstractive,text,eess.SP,2409.01111v2,1,2409.01111v2,0,3,1,True,True,470.9
+fc696ad6-995b-4670-a69a-64f4a395caa3,In what ways can this methodological approach impact future curriculum design across disciplines?,abstractive,text,physics.soc-ph,2412.15929v3,18,2412.15929v3,18,1,1,True,True,395.8
+fd6650b3-2c0e-4000-ba3f-5d1f132aa5fe,What differences exist between Acid Rain Control Zones and Sulfur Dioxide Pollution Control Zones regarding air pollution?,abstractive,text-image,econ.GN,2411.10728v3,18,2411.10728v3,1,2,1,True,True,570.5
+fe383b8b-dda9-46ae-b5af-6b6d3b813153,Do the new algorithms provide upper bounds for fragments of maxsat with unbounded clause sizes?,extractive,text,cs.LO,2412.10289v2,3,2412.10289v2,3,1,1,True,True,518.6
+fe77d74f-57e1-42c6-a765-a93e5c01c45d,Why might some patients experience harm from a medical intervention despite overall positive results?,abstractive,text-image,econ.EM,2412.16352v2,16,2412.16352v2,16,1,1,True,True,416.9
+ffa77cbe-5426-41db-aec4-3a5ff0dd40d6,Did OpenAI recognize any issues after their workshops regarding participant willingness to engage?,extractive,text,cs.AI,2407.11613v2,6,2407.11613v2,6,1,1,True,True,386.5
